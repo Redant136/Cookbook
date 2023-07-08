@@ -22,6 +22,9 @@
 - 
 
 # To Complete
-- p. 185, 189, 193, 195, 209, 217, 221, 223, 229, 237, 239, 245, 247, 249, 255, 259, 265, 267, 271, 279, 281, 283, 287, 291, 293, 297, 301, 
+- p. , 271, 279, 281, 283, 287, 291, 293, 297, 301, 355
 - feves au lard
-- nouilles peanut
+- a la distasio
+- a la distasio 2
+- a la distasio 3
+- recettes italiennes

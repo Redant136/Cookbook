@@ -1,5 +1,11 @@
+lang=en
+# Breakfast
+## Eggs
+## Baking
 # Lunch
-## Rice
+## Sandwich
+## Salad
+## Rice & Noodles
 ### Tuna rice
 1-2 Servings, ~15 minutes
 #### Ingredients
@@ -20,8 +26,34 @@
 7. Place the cooked rice into the mixing bowl and add the mayo, tomatoes/tomato paste and other ingredients.
 8. Add soy sauce to taste and serve
 
-# Dinner 
+# Dinner
+## Starter
+## Eggs
+## Pasta
+## Chicken
+## Fish & Seafood
+## Vegetarian
+## Beef
+### Filet mignon and potatoes
+2 Servings, ~30 minutes
+#### Ingredients
+- 2 pieces of filet mignon steak
+- Steak spices
+- Grelot potatoes 
+- 1 tablespoon of butter
+#### Instructions
+1. Place a pot filled with water medium-high heat and add the potatoes to it. 
+2. Place a medium pan on high heat, placing olive oil in it to prevent the meat from sticking to it
+3. Spread the spices on both sides of the steak
+4. Place the steak in the pan and cook each side for about 5 minutes or cook to liking
+5. Once done, remove the steak from the pan and place to rest.
+6. Once the potatoes are done cooking (a small knife can go through a potato without resistance), empty in a strainer and pour the potatoes back into the empty pot.
+7. Put the butter in the pot, using the remaining heat to melt the butter and stir the potatoes, making sure the butter is spread nicely.
+8. Serve the steak with the potatoes to the side and enjoy.
+## Pork
+## Lamb
 ## Rice & Noodles
+### Tuna rice
 ### Sesame peanut noodles
 4 Servings, ~20 minutes
 ![Sesame peanut noodles](img/thai-peanut-noodles-6.jpg)
@@ -45,3 +77,10 @@
 3. Divide the noodles between serving bowls and garnish with peanuts, black sesame seeds, and scallions.
 
 
+# Desert
+## Fruits
+## Puddings & Mousse
+## Pastry
+## Cake
+## Cookies
+## Other

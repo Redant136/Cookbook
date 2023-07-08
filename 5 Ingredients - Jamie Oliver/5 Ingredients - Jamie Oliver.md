@@ -1,7 +1,22 @@
+lang=en
 # Lunch
-
 ## Sandwich
-
+### Steak sandwich
+2 Servings, 14 minutes
+p. 193
+#### Ingredients
+- 8 oz strip loin steak (ideally about 3/4 inch thick)
+- 1 large onion
+- 2 teaspoons yellow mustard
+- 4 slices of nice bread (1 3/4 oz each ???lmao)
+- 1 3/4 oz provolone or fontina cheese
+#### Instructions
+1. Pull the fat off the strip loin, finely slice the fat and plate it in a large cold non-stick frying pan. Put on a medium-high heat to render as it heats up, moving it around to coat the pan, while you peel and slice the onion into 1/2 inch thick rounds.
+2. Add them to the pan to char for 10 minutes, turning halfway. Meanwhile, cut off the sinew, then place the steak between two sheets of parchment paper and pound with your fist until just under 1/2 inch thick.
+3. Sprinkle with a pinch of sea salt and black pepper, then brush all over with the mustard and cut into two
+4. Add a good splash of red wine vinegar to the onion, toss for 1 minute over the heat, then divide between two slices of bread, leaving the pan on the heat.
+5. Sear the steaks in the screaming hot pan for just 40 seconds on each side, then slice and lay over the cheese, cover, then turn the heat off and leave to melt for just 40 seconds more.
+6. Lay the steak on top of the onion, pop the other slices of bread, drizzle with a little virgin olive oil and enjoy.
 ## Salad
 ### Prosciutto celeriac salad
 2 Servings, 10 minutes
@@ -48,10 +63,10 @@ p. 53
 - 1 large egg
 - 1 oz Parmesan cheese
 #### Instructions
-- Cook the pasta in a pan of boiling salted water, the drain reserving a cupful of cooking water
-- Meanwhile, squeeze the sausage meat out of the skins, then with wet hands, quickly shape into 18 even-sized balls. Roll and coat them in black pepper, then cook in a non-stick frying pan on medium heat with 1/2 a tablespoon of olive oil until golden and cooked through, tossing regularly, then turn the heat off
-- Finely chop the parsley, stalks and all. Beat with it the egg and plash of pasta cooking water. Then finely grate and mix in most of the Parmesan
-- Toss the drained pasta into the sausage pan, pour in the egg mixture and toss for 1 minute off the heat (the egg will gently cook in the residual heat). Loosen with a good splash of reserved cooking water, season with sea salt and pepper and finely grate over the remaining Parmesan
+1. Cook the pasta in a pan of boiling salted water, the drain reserving a cupful of cooking water
+2. Meanwhile, squeeze the sausage meat out of the skins, then with wet hands, quickly shape into 18 even-sized balls. Roll and coat them in black pepper, then cook in a non-stick frying pan on medium heat with 1/2 a tablespoon of olive oil until golden and cooked through, tossing regularly, then turn the heat off
+3. Finely chop the parsley, stalks and all. Beat with it the egg and plash of pasta cooking water. Then finely grate and mix in most of the Parmesan
+4. Toss the drained pasta into the sausage pan, pour in the egg mixture and toss for 1 minute off the heat (the egg will gently cook in the residual heat). Loosen with a good splash of reserved cooking water, season with sea salt and pepper and finely grate over the remaining Parmesan
 ### Sicilian tuna pasta
 4 Servings, 14 minutes
 p. 61
@@ -63,12 +78,12 @@ p. 61
 - 1 tablespoon dried oregano. Ideally the flowering kind
 - 8 oz tuna packed in olive oil
 #### Instructions
-- Cook the pasta in a pan of boiling salted water
-- Meanwhile, place a large non-stick frying pan on a medium-high heat with 1 tablespoon of olive oil. Add the capers, fry until super-cripsy, then scoop out and put aside, leaving the fragrant oil behind
-- Halve and add the tomatoes to the frying pan, then sprinkle in most of the oregano. Drain and flake in the tuna, add 2 ladleful of pasta cooking water; simmer until the pasta is done
-- Drain the pasta, reserving a cupful of cooking water, then toss the pasta into the tuna pan, loosening with a splash of reserved cooking water, if needed.
-- Taste, season to perfection with sea salt and black papper, then dish up. 
-- Sprinkle over the crispy capers and the remaining oregano from a height, drizzle with 1 teaspoon of extra virgin olive oil and tuck in.
+1. Cook the pasta in a pan of boiling salted water
+2. Meanwhile, place a large non-stick frying pan on a medium-high heat with 1 tablespoon of olive oil. Add the capers, fry until super-cripsy, then scoop out and put aside, leaving the fragrant oil behind
+3. Halve and add the tomatoes to the frying pan, then sprinkle in most of the oregano. Drain and flake in the tuna, add 2 ladleful of pasta cooking water; simmer until the pasta is done
+4. Drain the pasta, reserving a cupful of cooking water, then toss the pasta into the tuna pan, loosening with a splash of reserved cooking water, if needed.
+5. Taste, season to perfection with sea salt and black papper, then dish up. 
+6. Sprinkle over the crispy capers and the remaining oregano from a height, drizzle with 1 teaspoon of extra virgin olive oil and tuck in.
 
 ### Pork porcini pasta
 4 Servings, 30 minutes
@@ -80,15 +95,15 @@ p. 69
 - 10 oz dried penne
 - 1 3/4 oz Parmesan cheese
 #### Instructions
-- In a small bowl, cover the dried porcini with 1 2/3 cups of boiling kettle water.
-- Place the ground pork in a large shallow casserole pan with 1 tablespoon of olive oil, then break it up and fry on a high heat, stirring regularly.
-- Meanwhile, peel and finely chop the onion then the drained porcini, reserving the soaking water
-- Stir the onion and porcini into the pan and fry for 10 minutes, or until golden.
-- Add 1 tablespoon of red wine vinegar and the porcini water (discarding the last gritty bit).
-- Simmer for 10 minutes on a low heat while you cook the pasta in a pan of boiling salted water, reserving a good cupful of cooking water.
-- Toss the drained pasta into the pork pan with 1 cup of reserved cooking water, then finely grate in most of the Parmesan and season to taste with sea salt and black pepper.
-- Toss over a low heat for 2 minutes to emulsify the sauce then dish up.
-- Finely grate over the remaining Parmesan, drizzle with a little extra virgin olive oil and enjoy.
+1. In a small bowl, cover the dried porcini with 1 2/3 cups of boiling kettle water.
+2. Place the ground pork in a large shallow casserole pan with 1 tablespoon of olive oil, then break it up and fry on a high heat, stirring regularly.
+3. Meanwhile, peel and finely chop the onion then the drained porcini, reserving the soaking water
+4. Stir the onion and porcini into the pan and fry for 10 minutes, or until golden.
+5. Add 1 tablespoon of red wine vinegar and the porcini water (discarding the last gritty bit).
+6. Simmer for 10 minutes on a low heat while you cook the pasta in a pan of boiling salted water, reserving a good cupful of cooking water.
+7. Toss the drained pasta into the pork pan with 1 cup of reserved cooking water, then finely grate in most of the Parmesan and season to taste with sea salt and black pepper.
+8. Toss over a low heat for 2 minutes to emulsify the sauce then dish up.
+9. Finely grate over the remaining Parmesan, drizzle with a little extra virgin olive oil and enjoy.
 
 
 ## Chicken
@@ -103,13 +118,13 @@ p. 97
 - 1 fresh red chili
 - 2 scallions
 #### Instructions
-- Toast the sesame seeds in a dry 8-inch non-stick frying pan on a medium heat until lightly golden, then remove to a plate.
-- Still on the heat, sit the wings in the pan - they should fit snugly. 
-- Let them color for 1 minute on each side, then add the teriyaki and just cover the wings with water.
-- Halve the chili length ways and add to the pan
-- Simmer for 35 to 40 minutes or until the chicken is tender and the sauce is nice and sticky, turning occasionally.
-- Add a splash of red wine vinegar to the pan and jiggle around to pick up the gnarly bits
-- Trim and finely slice the scallions, scatter them over the chicken with the toasted sesame seeds and get stuck in.
+1. Toast the sesame seeds in a dry 8-inch non-stick frying pan on a medium heat until lightly golden, then remove to a plate.
+2. Still on the heat, sit the wings in the pan - they should fit snugly. 
+3. Let them color for 1 minute on each side, then add the teriyaki and just cover the wings with water.
+4. Halve the chili length ways and add to the pan
+5. Simmer for 35 to 40 minutes or until the chicken is tender and the sauce is nice and sticky, turning occasionally.
+6. Add a splash of red wine vinegar to the pan and jiggle around to pick up the gnarly bits
+7. Trim and finely slice the scallions, scatter them over the chicken with the toasted sesame seeds and get stuck in.
 
 
 ### Chicken noodle stir-fry
@@ -122,15 +137,15 @@ p. 101
 - 5 oz medium egg noodles
 - 7 oz broccolini
 #### Instructions
-- Place a large non-stick frying pan on a medium heat and toast the peanuts as it heats up, tossing regularly, then remove an set aside, leaving the pan on the heat
-- Meanwhile, score the chicken lengthways at 1/2 inch intervals, going about halfway through.
-- In a bowl, toss the chicken with 1 tablespoon each of olive oil, red wine vinegar and black bean sauce to coat.
-- Cook in the hot pan for 3 minutes on each side or until dark, gnarly and cooked through
-- Cook the noodles in a large pan of boiling salted water
-- Trim the broccolini (halving any thick stalks lengthways) and add to the water for the last 2 minutes.
-- Remove the chicken to a board. Use tongs to carefully drag the just cooked noodles and broccolini with a bit of their water straight into the frying pan.
-- Pound half the peanuts in a pestle and mortar until fine, toss into the pan with remaining black bean sauce until well mixed, then divide between your plates
-- Slice the chicken and place on top, scatter over the remaining peanuts drizzle with a little extra virgin olive oil and dig in.
+1. Place a large non-stick frying pan on a medium heat and toast the peanuts as it heats up, tossing regularly, then remove an set aside, leaving the pan on the heat
+2. Meanwhile, score the chicken lengthways at 1/2 inch intervals, going about halfway through.
+3. In a bowl, toss the chicken with 1 tablespoon each of olive oil, red wine vinegar and black bean sauce to coat.
+4. Cook in the hot pan for 3 minutes on each side or until dark, gnarly and cooked through
+5. Cook the noodles in a large pan of boiling salted water
+6. Trim the broccolini (halving any thick stalks lengthways) and add to the water for the last 2 minutes.
+7. Remove the chicken to a board. Use tongs to carefully drag the just cooked noodles and broccolini with a bit of their water straight into the frying pan.
+8. Pound half the peanuts in a pestle and mortar until fine, toss into the pan with remaining black bean sauce until well mixed, then divide between your plates
+9. Slice the chicken and place on top, scatter over the remaining peanuts drizzle with a little extra virgin olive oil and dig in.
 ### Crispy garlic chicken
 2 Servings, 20 minutes
 p. 109
@@ -141,11 +156,11 @@ p. 109
 - 1 lemon
 - 1 3/4 oz arugula
 #### Instructions
-- Place the chicken breasts between two large sheets of parchment paper and whack with the base of a large non-stick frying to flatten them to about 1/2 inch thick.
-- Tear the bread into a food processor(blender) then peal, chop and add the garlic and blitz into fairly fine crumbs.
-- Pour the crumbs over the chicken, roughly pat onto each side, then re-cover with the paper and whack again to hammer the crumbs into the chicken and flatten them further
-- Out the pan on a medium heat. Fry the crumbed chicken in 1 tablespoon of olive oil for 3 minutes on each side or until crisp golden and cooked through.
-- Slice, plate up, season with sea salt and black pepper, sprinkle with lemon dressed arugula and serve with lemon wedges for squeezing over.
+1. Place the chicken breasts between two large sheets of parchment paper and whack with the base of a large non-stick frying to flatten them to about 1/2 inch thick.
+2. Tear the bread into a food processor(blender) then peal, chop and add the garlic and blitz into fairly fine crumbs.
+3. Pour the crumbs over the chicken, roughly pat onto each side, then re-cover with the paper and whack again to hammer the crumbs into the chicken and flatten them further
+4. Out the pan on a medium heat. Fry the crumbed chicken in 1 tablespoon of olive oil for 3 minutes on each side or until crisp golden and cooked through.
+5. Slice, plate up, season with sea salt and black pepper, sprinkle with lemon dressed arugula and serve with lemon wedges for squeezing over.
 ### Flaky pastry pesto chicken
 4 Servings, 30 minutes
 p. 115
@@ -156,15 +171,15 @@ p. 115
 - 14 oz ripe cherry tomatoes on the vine
 - 14 oz green beans
 #### Instructions
-- Preheat the oven to 425 F
-- Unroll the pastry, cut it in half lengthways, then cut each half widthway into 8 equals strips.
-- Flatten the chicken breasts by pounding with your fist until the fat ends are the same thickness as the skinny ends.
-- Place them in a roasting pan, season with sea salt and black pepper, spread over the pesto then lay 4 overlapping strips of pastry over each breast, tucking them under at the edges.
-- Brush with a little olive oil. Lightly dress the tomato bines in olive oil, season and put into a second pan.
-- Place the chicken pan on the top shelf of the oven with the tomatoes below and cook for 20 minutes or until the pastry is golden and the chicken is cooked through
-- Meanwhile, line up the beans, trim off just the stalk ends, then cook in a pan of boiling salted water for 7 minutes or until tender.
-- Remove the chicken to a board with half the tomatoes, squashing the rest in the pan and discarding the vines.
-- Drain and toss in the beans, taste and season. Slice the chicken at an angle and serve on top of the beans, with the whole tomatoes.
+1. Preheat the oven to 425F
+2. Unroll the pastry, cut it in half lengthways, then cut each half widthway into 8 equals strips.
+3. Flatten the chicken breasts by pounding with your fist until the fat ends are the same thickness as the skinny ends.
+4. Place them in a roasting pan, season with sea salt and black pepper, spread over the pesto then lay 4 overlapping strips of pastry over each breast, tucking them under at the edges.
+5. Brush with a little olive oil. Lightly dress the tomato bines in olive oil, season and put into a second pan.
+6. Place the chicken pan on the top shelf of the oven with the tomatoes below and cook for 20 minutes or until the pastry is golden and the chicken is cooked through
+7. Meanwhile, line up the beans, trim off just the stalk ends, then cook in a pan of boiling salted water for 7 minutes or until tender.
+8. Remove the chicken to a board with half the tomatoes, squashing the rest in the pan and discarding the vines.
+9. Drain and toss in the beans, taste and season. Slice the chicken at an angle and serve on top of the beans, with the whole tomatoes.
 
 ### Herby chicken traybake
 2 Servings, 6 minutes fast-prep, 50 minutes cook
@@ -176,15 +191,15 @@ p. 121
 - 2 prigs of fresh rosemary
 - 1 lemon
 #### Instructions
-- Preheat over to 350F.
-- Scrub potatoes, slice just under 1/4 inch thick and place in a 12x10 inch pan with the chicken, 1/2 a tablespoon of olive oil and a pinch of sea salt and black pepper.
-- Lightly squash and add the unpeeled garlic cloves, toss well then arrange the spuds in a fairly even layer.
-- Sit the chicken legs directly on the bars of the oven, skin side up with the pan of potatoes directly underneath.
-- Bake for 40 minutes.
-- When the time is up, mix up the potatoes in the tasty pan juices, then sit the chicken on top.
-- Strip the rosemary leaves off  the sprigs, use a vegetable peeler to peel strips of lemon zest then toss both in 1 teaspoon of olive oil and sprinkle into the pan.
-- Squeeze over half of the lemon juice then return to the oven for a final 10 minutes or until the chicken is tender and super golden.
-## Fish
+1. Preheat over to 350F.
+2. Scrub potatoes, slice just under 1/4 inch thick and place in a 12x10 inch pan with the chicken, 1/2 a tablespoon of olive oil and a pinch of sea salt and black pepper.
+3. Lightly squash and add the unpeeled garlic cloves, toss well then arrange the spuds in a fairly even layer.
+4. Sit the chicken legs directly on the bars of the oven, skin side up with the pan of potatoes directly underneath.
+5. Bake for 40 minutes.
+6. When the time is up, mix up the potatoes in the tasty pan juices, then sit the chicken on top.
+7. Strip the rosemary leaves off  the sprigs, use a vegetable peeler to peel strips of lemon zest then toss both in 1 teaspoon of olive oil and sprinkle into the pan.
+8. Squeeze over half of the lemon juice then return to the oven for a final 10 minutes or until the chicken is tender and super golden.
+## Fish & Seafood
 ### Crazy simple fish pie
 4 servings, 20 minutes
 p. 127
@@ -195,13 +210,13 @@ p. 127
 - 5 oz cheddar cheese
 - 4 sheets of phyllo pastry
 #### Instructions
-- Preheat the oven to 400F.
-- In a bowl, cover the fish with boiling kettle water. Put aside to soak while you trim and roughly chop the scallions, placing them into a 12 inch non-stick ovenproof frying pan on high heat with 1 tablespoon of olive oil.
-- Stir and fry for 2 minutes, then pile the spinach on top, let it wilt down and turn the heat off
-- Spoon 6 tablespoon of the soaking water over the spinach, then drain the fish, break up the pieces and sit them evenly around the pan.
-- Finely grate over most of the cheese and season well with black pepper.
-- Quickly layer the phyllo on top, tucking it around the fish and up the sides of the pan, tearing the last sheet on top in a nutty fashion.
-- Grate over the last bit of cheese, drizzle with a 1/2 a tablespoon of olive oil and bake for 15 to 17 minutes.
+1. Preheat the oven to 400F.
+2. In a bowl, cover the fish with boiling kettle water. Put aside to soak while you trim and roughly chop the scallions, placing them into a 12 inch non-stick ovenproof frying pan on high heat with 1 tablespoon of olive oil.
+3. Stir and fry for 2 minutes, then pile the spinach on top, let it wilt down and turn the heat off
+4. Spoon 6 tablespoon of the soaking water over the spinach, then drain the fish, break up the pieces and sit them evenly around the pan.
+5. Finely grate over most of the cheese and season well with black pepper.
+6. Quickly layer the phyllo on top, tucking it around the fish and up the sides of the pan, tearing the last sheet on top in a nutty fashion.
+7. Grate over the last bit of cheese, drizzle with a 1/2 a tablespoon of olive oil and bake for 15 to 17 minutes.
 ### Quick Asian fishcakes
 4 Servings, 22 minutes
 p.131
@@ -212,15 +227,15 @@ p.131
 - 1 lb salmon fillets, skin off, pin-boned
 - 4 teaspoons chili jam
 #### Instructions
-- Whack the lemongrass against your work surface and remove the tough outer layer.
-- Peel the ginger, the very finely chop with the inside of the lemongrass and most of the cilantro, stalks and all, reserving a few nice leaves in a bowl of cold water.
-- Chop the salmon into 1/2 inch thick chunks over the mix on your board, then push half the salmon to one side.
-- Chop the rest until super-fine, almost like a puree, then mix the chunkier bits back through it and season with seas salt and black pepper.
-- Divide into 4, then shape and squash into 3/4 inch thick patties
-- Place a large non-stick frying pan on a medium-high heat with 1 tablespoon of olive oil.
-- Cook the patties for 2 minutes on each side, or until nicely golden.
-- Spoon the chili jam over the fish cakes, add a splash of water to the pan, turn the heat off, and jiggle to coat.
-- Serve sprinkled with the drained cilantro.
+1. Whack the lemongrass against your work surface and remove the tough outer layer.
+2. Peel the ginger, the very finely chop with the inside of the lemongrass and most of the cilantro, stalks and all, reserving a few nice leaves in a bowl of cold water.
+3. Chop the salmon into 1/2 inch thick chunks over the mix on your board, then push half the salmon to one side.
+4. Chop the rest until super-fine, almost like a puree, then mix the chunkier bits back through it and season with seas salt and black pepper.
+5. Divide into 4, then shape and squash into 3/4 inch thick patties
+6. Place a large non-stick frying pan on a medium-high heat with 1 tablespoon of olive oil.
+7. Cook the patties for 2 minutes on each side, or until nicely golden.
+8. Spoon the chili jam over the fish cakes, add a splash of water to the pan, turn the heat off, and jiggle to coat.
+9. Serve sprinkled with the drained cilantro.
 ### Seared sesame tuna
 2 Servings, 10 minutes
 p. 135
@@ -231,13 +246,13 @@ p. 135
 - 8 scallions
 - 5 oz sugar snap peas
 #### Instructions
-- Place a large non-stick frying pan on a medium-high heat.
-- Rub the miso all over the tuna then pat on the sesame seeds to cover
-- Place in the hot pan with 1 tablespoon of olive oil and sear for 1 1/2 minutes on each side, so it's beautifully golden on the outside but blushing in the middle.
-- Remove to a board to rest.
-- Quickly wipe out the pan with a ball of paper towel then return to the heat
-- Trim the scallions and slice at an angle the same length as the sugar snaps, tossing both into the hot pan with a few drips of red wine vinegar and a pinch of sea salt for 2 minutes to lightly catch and char.
-- Slice the sesame tuna and serve on top of the veg, drizzled with 1 teaspoon of extra virgin olive oil.
+1. Place a large non-stick frying pan on a medium-high heat.
+2. Rub the miso all over the tuna then pat on the sesame seeds to cover
+3. Place in the hot pan with 1 tablespoon of olive oil and sear for 1 1/2 minutes on each side, so it's beautifully golden on the outside but blushing in the middle.
+4. Remove to a board to rest.
+5. Quickly wipe out the pan with a ball of paper towel then return to the heat
+6. Trim the scallions and slice at an angle the same length as the sugar snaps, tossing both into the hot pan with a few drips of red wine vinegar and a pinch of sea salt for 2 minutes to lightly catch and char.
+7. Slice the sesame tuna and serve on top of the veg, drizzled with 1 teaspoon of extra virgin olive oil.
 ### Thai style crispy sea bass
 2 Servings, 19 minutes
 p. 151
@@ -248,15 +263,15 @@ p. 151
 - 2 tablespoons Thai red curry paste
 - 1 lime
 #### Instructions
-- Trim and halve the scallions, finely shred lengthways and place in a bowl of ice-cold water to crisp up. 
-- Pick in the cilantro leaves, reserving the stalks
-- Place a large non-stick frying pan on a medium-high heat.
-- With a sharp knife, score the sea bass at 3/4 inch intervals, then rub all over with the curry paste, inside and out, getting into all the cracks and crannies.
-- Pack the cilantro stalks into the cavities, season with sea salt and black pepper, then place in the hot pan with 1 tablespoon of olive oil.
-- Cook for 3 to 4 minutes per side or until dark golden and cooked through (depending on the thickness of your fish)
-- Drain and shake off the scallions and cilantro and pile onto your plate.
-- Sit the sea bass on top, spooning over any spicy oil from the pan.
-- Finely grate over the lime zest, and serve with lime halves, for squeezing over.
+1. Trim and halve the scallions, finely shred lengthways and place in a bowl of ice-cold water to crisp up. 
+2. Pick in the cilantro leaves, reserving the stalks
+3. Place a large non-stick frying pan on a medium-high heat.
+4. With a sharp knife, score the sea bass at 3/4 inch intervals, then rub all over with the curry paste, inside and out, getting into all the cracks and crannies.
+5. Pack the cilantro stalks into the cavities, season with sea salt and black pepper, then place in the hot pan with 1 tablespoon of olive oil.
+6. Cook for 3 to 4 minutes per side or until dark golden and cooked through (depending on the thickness of your fish)
+7. Drain and shake off the scallions and cilantro and pile onto your plate.
+8. Sit the sea bass on top, spooning over any spicy oil from the pan.
+9. Finely grate over the lime zest, and serve with lime halves, for squeezing over.
 ## Vegetarian
 ### Asparagus, eggs & French dressing
 2 Servings, 15 minutes
@@ -268,15 +283,15 @@ p. 165
 - 1/2 a bunch of fresh tarragon (1/2 oz)
 - 2 heaping teaspoons Dijon mustard
 #### Instructions
-- Peel and very finely chop the red onion, place in a bowl, cover with 4 tablespoons of red wine vinegar and add a very good pinch of sea salt.
-- Lower the eggs into a pan of vigorously simmering water and boil for 5 1/2 minutes exactly. 
-- Line up the asparagus, trim off the woody ends and place in a colander above the eggs, covered, to steam while the eggs cook.
-- Meanwhile, pick the tarragon leaves.
-- In a bowl, whisk the mustard with 6 tablespoons of extra virgin olive oil, adding it gradually, then pour in the soaking vinegar from the onion through a strainer, whisking constantly.
-- Taste and season with black pepper.
-- When the time's up on the eggs, divide  the asparagus between your plates.
-- Cool the eggs under cold water until cool enough to handle, then peel, halve and plate up, sprinkled with the tarragon leaves and onion.
-- Drizzle each plate with 1 tablespoon of dressing (save the rest for another day), season from a height with a pinch of pepper, and dig in.
+1. Peel and very finely chop the red onion, place in a bowl, cover with 4 tablespoons of red wine vinegar and add a very good pinch of sea salt.
+2. Lower the eggs into a pan of vigorously simmering water and boil for 5 1/2 minutes exactly. 
+3. Line up the asparagus, trim off the woody ends and place in a colander above the eggs, covered, to steam while the eggs cook.
+4. Meanwhile, pick the tarragon leaves.
+5. In a bowl, whisk the mustard with 6 tablespoons of extra virgin olive oil, adding it gradually, then pour in the soaking vinegar from the onion through a strainer, whisking constantly.
+5. Taste and season with black pepper.
+6. When the time's up on the eggs, divide  the asparagus between your plates.
+7. Cool the eggs under cold water until cool enough to handle, then peel, halve and plate up, sprinkled with the tarragon leaves and onion.
+8. Drizzle each plate with 1 tablespoon of dressing (save the rest for another day), season from a height with a pinch of pepper, and dig in.
 ### Easy rustic gnocchi
 2 Servings, 30 minutes
 p. 169
@@ -287,17 +302,17 @@ p. 169
 - 1/2 a bunch of fresh thyme (1/2 oz)
 - 1 3/4 oz Parmesan cheese
 #### Instructions
-- Wash the potatoes, chop into 1 1/4 inch chunks and cook in a large pan of boiling salted water for 12 minutes or until tender.
-- Meanwhile line up the asparagus, trim off the woody ends, then slice the stalks 1/2 inch thick, leaving the tips whole
-- Drain the potatoes and steam dry for 2 minutes, then return to the pan and mash well. 
-- Taste and season with sea salt and black pepper, then tip onto a clean work work surface.
-- Fill the empty pan with boiling kettle water and divide into 24 pieces. 
-- Squeeze each in your palm to compress, into little uneven gnocchi, then drop into the boiling water for 1 minutes, or until they float.
-- Meanwhile, put the asparagus into a large non-stick frying pan on a medium-low heat with 1 tablespoon of olive oil, stirring occasionally.
-- Strip in most of the thyme leaves, then use a slotted spoon to add the gnocchi straight in.
-- Finely grate over most of the Parmesan and toss well, adding 1/2 cup of gnocchi cooking water to emulsify it into a nice sauce.
-- Taste, season, then dish up.
-- Grate over the remaining Parmesan, strip over the remaining thyme, and finish with a little drizzle of extra virgin olive oil.
+1. Wash the potatoes, chop into 1 1/4 inch chunks and cook in a large pan of boiling salted water for 12 minutes or until tender.
+2. Meanwhile line up the asparagus, trim off the woody ends, then slice the stalks 1/2 inch thick, leaving the tips whole
+3. Drain the potatoes and steam dry for 2 minutes, then return to the pan and mash well. 
+4. Taste and season with sea salt and black pepper, then tip onto a clean work work surface.
+5. Fill the empty pan with boiling kettle water and divide into 24 pieces. 
+6. Squeeze each in your palm to compress, into little uneven gnocchi, then drop into the boiling water for 1 minutes, or until they float.
+7. Meanwhile, put the asparagus into a large non-stick frying pan on a medium-low heat with 1 tablespoon of olive oil, stirring occasionally.
+8. Strip in most of the thyme leaves, then use a slotted spoon to add the gnocchi straight in.
+9. Finely grate over most of the Parmesan and toss well, adding 1/2 cup of gnocchi cooking water to emulsify it into a nice sauce.
+10. Taste, season, then dish up.
+11. Grate over the remaining Parmesan, strip over the remaining thyme, and finish with a little drizzle of extra virgin olive oil.
 
 ## Beef
 ### Epic rib-eye steak
@@ -310,13 +325,245 @@ p. 183
 - 12 oz mixed mushroms
 - 1x 23 oz jar of white beans (find them in Italian delis)
 #### Instructions
-- Place a large non-stick frying on a medium-high heat.
-- Rub the steak all over with a pinch of sea salt and black pepper, then sear on all sides for 10 minutes in total so you achieve good color on the outside but keep it medium rare in the middle, or cook to your liking turning regularly with tongs.
-- Meanwhile, strip the rosemary leaves off the sprigs, peel and finely slice the garlic and tear up any larger mushrooms.
-- When the steak's done, remove to a plate and cover with aluminum foil.
-- Reduce the heat under the pan to medium and crisp up the rosemary for 30 seconds, then add the garlic and mushrooms  and cook for 8 minutes or until golden, tossing regularly.
-- Pour in the beans and their juice, add 1 tablespoon of red wine vinegar and simmer for 5 minutes, then add seasoning. 
-- Sit the steak on top and pour over any resting juices.
-- Slice and serve at the table, finishing with a little extra virgin olive oil, if you like.
+1. Place a large non-stick frying on a medium-high heat.
+2. Rub the steak all over with a pinch of sea salt and black pepper, then sear on all sides for 10 minutes in total so you achieve good color on the outside but keep it medium rare in the middle, or cook to your liking turning regularly with tongs.
+3. Meanwhile, strip the rosemary leaves off the sprigs, peel and finely slice the garlic and tear up any larger mushrooms.
+4. When the steak's done, remove to a plate and cover with aluminum foil.
+5. Reduce the heat under the pan to medium and crisp up the rosemary for 30 seconds, then add the garlic and mushrooms  and cook for 8 minutes or until golden, tossing regularly.
+6. Pour in the beans and their juice, add 1 tablespoon of red wine vinegar and simmer for 5 minutes, then add seasoning. 
+7. Sit the steak on top and pour over any resting juices.
+8. Slice and serve at the table, finishing with a little extra virgin olive oil, if you like.
+### Ginger shakin' beef
+2 Servings, 16 minutes
+p. 185
+#### Ingredients
+- 10 oz strip loin steak (ideally about 3/4 inch thick)
+- 1 1/2 inch piece of fresh gigerroot
+- 1 tablespoon white miso paste
+- 2 bok choi (8 oz)
+#### Instructions
+1. Pull the fat off the strip loin, finely slice the fat  and place in a cold non-stick frying pan
+2. Put on a medium-high heat to crisp up while you peel and match stick the ginger then add that to crisp up too.
+3. Cut off the sinew, then dice the steak into 1 1/4 inch chunks and toss with the miso until well coated.
+4. Scoop the crispy fat and ginger out and put aside, then add the steak chunks to the pan. Cook for 4 minutes, tossing regularly, then drizzle in the honey and 1 tablespoon of red wine vinegar. Toss for 1 minute until shiny and sticky.
+5. Meanwhile, halve the bok choy, cook in a pan of boiling water for just 1 minute so they retain a bit of crunch, then drain well and plate up.
+6. Spoon over the steak and sticky juices from the pan and finish with the reserved crispy bits.
+### Bangin' beef stew
+4 Servings, 9 minutes fast-prep, 2 hours slow-cook
+p. 195
+#### Ingredients
+- 4 mixed color peppers
+- 1 heaping teaspoon ground allspice
+- 1 3/4 lbs lean stewing beef
+- 10 fresh bay leaves
+- 8 cloves of garlic
+#### Instructions
+1. Preheat the oven to 325F. Place a large shallow casserole pan on high heat.
+2. Seed the peppers and chop into fingers, then place in the pan with 1 tablespoon of olive oil, a pinch of sea salt and black pepper and the allspice.
+3. Chop in the unpeeled garlic through a garlic crusher and fry for 2 minutes, tossing regularly.
+4. Add 2 teaspoons of red wine vinegar and 2 cups of water to the pan.
+5. Cover then cook in the oven for 2 hours or until dark and sticky. Loosen with a splash of water, if needed mix up, taste season and serve.
+## Pork
+### Crazy pork burger
+1 Serving, 16 minutes
+p. 209
+#### Ingredients
+- 1 ripe sweet pear
+- 1 3/4 oz mixed spinach, arugula & watercress
+- 5 oz ground pork
+- 1 soft burger bun
+- 1 oz blue cheese
+#### Instruction
+1. Slice the pear lengthways as finely as you can. Toss gently with the salad leaves, a little drizzle each of extra virgin olive oil and red wine vinegar and a pinch of black pepper.
+2. Scrunch the ground pork in your clean hands with a punch seasoning, then shape into a 1/2 inch thick patty.
+3. Rub with 1 teaspoon of olive oil, then place in a large non-stick frying pan on high heat for 2 minutes while you halve and toast the bun alongside, removing it when golden.
+4. Flip the burger, then after 2 minutes, crumble the blue cheese next to it to melt. Move the burger on top of the oozy cheese, jiggle around to coat, then put it on your bun base.
+5. Stack in as much pear and salad as the bun will hold, pop the lid on, squash and enjoy with extra salad on the side.
+### Peachy pork chops
+2 Servings, 28 minutes
+p. 217
+#### Ingredients
+- 2x 8 oz pork chops with rind
+- 4 cloves of garlic
+- 2 sprigs of fresh rosemary
+- 1x 15 oz can of peach halves in juice
+- 1/4 cup of bourbon
+#### Instructions
+1. Preheat the broiler to high.
+2. Slice the rind off the chops, score the fat side of it in a criss-cross fashion and place skin up in a pan. Pop under the broiler for 5 minutes to crisp up into crackling - keep an eye on it.
+3. Season the chops with sea salt and black pepper, score the remaining fat in a criss-cross fashion, then sit the chops together fat edges down in a large cold non-stick frying pan.
+4. Place on high heat for 3 to 4 minutes, or until golden and the fat has rendered out, using tongs to ensure they're in good contact with the pan. Gently turn the chops on their sides to cook for 5 minutes on each sides.
+5. Meanwhile, peel and finely slice the garlic. Strip the rosemary leaves off the sprigs. Remove the chops to a plate, drain 90% of the fat from the pan into a jar to use for cooking another day, then sprinkle the garlic into the pan.
+6. Stir regularly until golden then add the rosemary and four drained peaches halves, flat-side down. Jiggle over the heat until golden, then return the chops to the pan, add the bourbon and carefully set fire to it with a match.
+7. Once the flames begin to subside, dish up with the crispy crackling.
+### Sticky pork stir-fry
+4 Servings, 18 minutes
+p. 221
+#### Ingredients
+- 14 oz pork shoulder
+- 14 oz mixed color baby heirloom carrots
+- 8 scallions
+- 2 tablespoons teriyaki sauce
+- 2 tablespoons liquid honey
+#### Instructions
+1. Put a large shallow casserole pan on high heat.
+2. Chop the pork into 1 1/4 inch chunks and place in the pan with 1 tablespoon of olive oil and a pinch of sea salt and black pepper.
+3. Trim and add the whole baby carrots (halving any larger ones), then cook for 12 minutes or until everything is golden tossing regularly.
+4. Meanwhile trim and slice the scallions
+5. Add a splash of water to the pan to deglaze it, then stir in the scallions, teriyaki sauce and honey.
+6. Cook for another 3 minutes, tossing regularly until it's all shiny and sticky, then taste, season and serve.
+
+### Comformting sausage bake
+4 Servings, 10 minutes fast-prep, 45 minutes cook
+p. 223
+#### Ingredients
+- 1 1/3 lbs ripe mixed color cherry tomatoes
+- 4 cloves of garlic
+- 7 oz rosemary focaccia
+- 1x 23 jar of white beans (find them in Italian delis)
+- 12 chipolata or small opork sausages
+#### Instructions
+1. Preheat the oven to 350F. Halve the cherry tomatoes, peel and finely slice the garlic and tear the bread into bite-sized chunks.
+2. Place it all in a 14x12 inch roasting pan, pour in the beans and their juice, drizzle with 1 tablespoon each of olive oil and red wine vinegar, add a splash of water and mix it all together.
+3. Quickkly pinch and twist each chipolata in the middle to make it into two mini ones, then randomly dot them around your bake, lightly pressing them into the beans and tomatoes.
+4. Roast for 45 minutes or until everything is golden, bubbling and delicious.
+## Lamb
+### Tender lamb shoulder
+2 Servings, 15 minutes
+p. 229
+#### Ingredients
+- 8 oz ground lamb
+- 2 teaspoons rose harissa, plus extra to serve
+- 8 oz red cabbage
+- 2 whole-wheat tortillas or flatbreads with seeds
+- 2 tablespoons cottage cheese
+#### Instructions
+1. PUt a grill pan on high heat. Scrunch the ground lamb and harissa in your clean hands until well mixed. 
+2. Divide into 6 pieces, then shape into kofkas with your fingertips, leaving dents in the surface to increase the gnarly bits as they cook. Grill for 4 to 5 minutes on each side or until sizzling and golden
+3. Meanwhile, shred the red cabbage as finely as you can.
+4. Sprinkle with a pinch of sea salt and black pepper, drizzle with 1 tablspoon or red wine vinegar, then scrunch together to quickly pickle it.
+5. Warm your tortillas or flatbreads, sprinkle over the cabbage, spoon over the cottage cheese, add the kofkas, drizzle with a little extra harissa and tuck it in.
+### Succulent lamb stew
+6 Servings, 6 minutes fast-prep, 2 hours slow-cooks
+p. 239
+#### Ingredients
+- 1/2 a bunch of fresh rosemary (1/2 oz)
+- 1 3/4 lbs lamb shoulder, bone cut
+- 5 oz mixed color olives (with pits)
+- 10 iz picled silverskin onions
+- 2x 14 oz cans of plums tomatoes
+#### Instructions
+1. Preheat the oven to 325F. 
+2. Place a 12 inch shallow casserole pan on a high heat, strip in the rosemary leave, add 1 tablespoon of olive oil and crisp up for 1 minutes while you dice the lamb into 1 1/4 inch chunks.
+3. Scoop out the reosemary and put aside, adding the lamb to the pan for 2 minuets to get some color.
+4. Meanwhile, squash the olives and remove the pits.
+5. Drau tge pickled onions and stir into the pan with the olives.
+6. Toss well, then pour inthe canned tomatoes, breaking them up iwth a wooden spoon as well as 2 cans' worth of water.
+7. Cover and cook in the oven for 2 hours, or until thick delicous and tender, stirring halfway and loosening with a splash of water, if needed.
+8. Taste, season with sea salt and black pepper, sprinkle over the crispy rosemary leaves and serve.
+
+## Rice & Noodles
+### Egg-fried rice
+2 Servings, 10 minutes
+p. 245
+#### Ingredients
+- 6 scallions
+- 8 oz cooked basamati rice
+- 2 heapig teaspoons chili jam
+- 2 large eggs
+- 5 oz firm silken tofu
+#### Instructions
+1. Put a large non-stick frying pan on medium-high heat.
+2. Trim and finely slice the scallions and fry with 1 tablespoon of olive oil for 1 minute.
+3. Add the rice, chilli jam, a splash of water and a pinch of sea salt and black pepper, then toss for 2 minutes until everything is well coated.
+4. Push the rice to the sides of the pan, making a big well, then use a rubber spatula to star gently moving the eggs around to create big curds.
+5. Break the tofu, then fold the rice back through the egg until it's all looking good. Taste and season.
+6. Lightly oil the inside of a bowl, add the egg fried rice, gently compacting it with the spatula, then turn out onto a plate.
+### Sweet and sour chicken noodles
+2 Servings, 20 minutes
+p. 247
+#### Ingredients
+- 2x 7 oz chicken thighs, skin on, bone in
+- 5 oz fine rice noodles
+- 7 oz sugar snap peas
+- 2 tablespoons Worcestershire sauce
+- 2 teaspoons chili jam
+#### Instructions
+1. Pull the skin off the chicken. Place the skin in a large non-stick frying pan on a medium heat to render and get golden , turning occasionally.
+2. Cut the bones out of the thighs and chuck into the pan for bonus flavor, then chop the meat into 3/4 inch pieces. Move the skin and bones to one side of the pan, then add the meat alongside and cook for 5 minutes or until golden, stirring occasionally.
+3. Once crispy, remove, chop and reserve the skin, discarding the bones.
+4. Meanwhile, cook the noodles in boiling salted water. Halve the sugar snaps lengthways. Once soft, drain the noodles, reserving a cupful of cooking water, then refresh under cold water.
+5. Use scissors to snip the noodles into roughly 3 inch lengths.
+6. Stir the Worchestershire sauce and chili jam into the chicken pan and let the jam melt, then add the sugar snaps and noodles.
+7. Toss over the heat for 2 minutes, adding a splash of reserved noodle water to loosen, if needed.
+8. Taste and season with sea salt and black pepper, then dish up. 
+### Baked saffron rice
+4 Servings, 26 minutes
+p. 249
+#### Ingredients
+- 2 red onions
+- 2 small pinches of saffron
+- 4 heaping tablespoons plain yogurt
+- 4 tablespoons sun-dried tomato paste
+- 1 1/3 cups white basamati rice
+#### Instructions
+1. Preheat the oven to 400F. Peel and finely chop the red onions. Place a 12x10 inch roasting pan on high heat on the stove, pour in 1 tablespoon of olive oil, add the onions and fry for 4 minutes or until soft and sweet, stirring regularly.
+2. Meanwhile, place half the saffron in 2 1/2 cups of boiling kettle water.
+3. In a bowl, cover the remaining saffron with 1 tablespoon of boiling water, steep for 10 seconds, then mix with the yogurt and put aside.
+4. Stir the tomato paste, rice and a pinch of sea salt and black pepper into the onion pan, then pour in the saffron water and bring to a boil
+5. Once boiling, carefully transfer to the oven for 15 minutes or until the rice has absorbed all the liquid, fluffed up beautifully and is golden and crisp on top.
+6. Spoon the saffron yogurt over the rice, drizzle it all with 1 tablespoon of extra virgin olive oil, fork and mix it all together, and dish up.
+### Sesame shiitake egg noodles
+2 Servings, 13 minutes
+p. 255
+#### Ingredients
+- 14 oz shiitake mushrooms
+- 5 oz egg noodles
+- 3 cloves of garlic
+- 3 tablespoons raw sesame seeds
+- 3 tablespoons kicap manis
+#### Instructions
+1. Halve the mushrooms, the ndry toast in a large non-stick frying pan on a medium-high heat or until golden and nutty, tossing occasionally.
+2. Meanwhile, cook the noodles in a pan of boiling salted water, then drain, reserving a cupful of cooking water.
+3. Peel and finely slice the garlic, add to the mushroom pan with 1 tablespoon of olive oil and cook for a further 2 minutes, tossing regularly.
+4. Pound the sesame seeds until fine in a pestle and mortar, then toss into the pan with the noodles, kicap manis and a good splash of reserved noodle water until everything is well coated.
+5. Taste season with sea salt and black pepper and dish up.
 
 # Desert
+## Puddings & Mousse
+### Cherry chocolate mousse
+6 Servings
+p. 265
+#### Ingredients
+- 7 oz dark chocolate
+- 1x 15 oz can of black pitted cherries in syrup
+- 3/4 cup + 5 teaspoons of heavy cream
+- 4 large eggs
+- 2 teaspoons golden caster sugar or superfine sugar
+#### Instructions
+1. Melt the chocolate in a heatproof bowl over a pan of gently simmering water, the remove to cool for 10 minutes.
+2. Meanwhile, simmer the cherries and their syrup in a non-stick frying pan on a medium heat until thick, then remove.
+3. Whip the cream to very soft peaks. Separate the eggs, add the yolks to the cream with the sugar and whisk to combine. Add a pinch of sea salt to the white and, with a clean whisk, beat until super-stiff.
+4. Fold the cooled chocolate into the cream, then very gently fold that through the egg whites with a spatula.
+5. Divvy up the mousse between six glasses or bowl, interspersing the cherries and syrup throughout and finishing with a few nice cherries on top.
+## Pastry
+### Almond pastry puff
+6 Servings, 28 minutes
+p. 267
+#### Ingredients
+- 3 1/2 oz blanched almonds
+- 1 tablespoon heavy cream, plus extra to serve
+- 6 tablespoons confectioner's sugar, plus extra for dusting
+- 2 large eggs
+- 13 oz block of all-butter puff pastry (cold)
+#### Instructions
+1. Preheat the oven to 425F. Line a baking sheet with parchment paper. Blitz the almonds in a food processor until nice and fine.
+2. With the processor still running, add the cream, confectioner's sugar, 1 egg and a pinch of sea salt until combined, stopping to scrape down the sides with a spatula.
+3. Halve the pastry, shape into two rounds and, working quickly, dusting with confectioner's sugar as you go to stop the pastry sticking, roll out between two sheets of parchment paper until they're just under 1/4 inch thick. 
+4. Place one round on the lined baking sheet. Spread the almond paste on top, leaving a 3/4 inch gap at the edges.
+5. Put the other rounds on top and gently push together. Quickly seal the edges with the back of the fork. 
+6. Eggwash the top, the dust over an extra layer of sugar
+7. Gently push your finger into the middle of the pastry, then, with a sharp knife, very delicately make little lines from the center to the outside.
+8. Bake on the bottom of the oven for 12 to 15 minutes or until puffed up and golden, dusting with a little extra confectioner's sugar before dishing up.
+
+
