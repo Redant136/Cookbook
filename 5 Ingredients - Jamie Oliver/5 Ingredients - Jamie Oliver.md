@@ -530,6 +530,43 @@ p. 255
 5. Taste season with sea salt and black pepper and dish up.
 
 # Desert
+## Fruits
+### Peach & almond alaska
+4 Servings, 26 minutes
+p. 281
+#### Ingredients
+- 3 oz flaked almonds
+- 1x 15 oz can of peach halves in juice
+- 4 large scoops of vanilla ice cream
+- 2 large eggs
+- 1/2 cup golden caster sugar or superfine sugar
+#### Instructions
+1. Preheat the broiler to high. Toast the almonds on a baking sheet as it heats up, keeping a close eye on them and removing as soon as lightly golden.
+2. Slice up the peaches and divide between four ovenproof bowls, along with their juices.
+3. Sit a nice round scoop of ice cream on top of each and place in the freezer
+4. Separate the eggs. Put the whites into the bowl of a free-standing mixer (save the yolks for another recipe), add a pinch of sea salt and whisk until the mixture forms stiff peaks (you could use a electric hand mixer).
+5. With the mixer still running, gradually add the sugar until combined.
+6. Spoon into a piping bag or a large sandwich bag that you can snip the corner off.
+7. Remove the bowls from the freezer and scatter over the toasted almonds.
+8. Pipe the meringue over the ice cream as delicately or roughly as you like.
+9. Pop the bowls under a broiler for just 2 minutes or until golden. Remove carefully and serve right away. 
+### Boozy pears & chocolate
+4 Servings, 15 minutes
+p. 291
+#### Ingredients
+- 1 1/2 oz blanched hazelnuts
+- 1x 15 oz can of pears halves in juice
+- 1/4 cup Armagnac
+- 1 3/4 oz dark chocolate (70%)
+- 4 large scoops of vanilla ice cream
+#### Instructions
+1. Toast the hazelnuts in a large non-stick frying pan on high heat for 2 minutes, until lightly golden, tossing regularly, them tip into a pestle and mortar, returning the pan to the heat.
+2. Pour in the pears (juice and all), let them get hot, then add the Armagnac.
+3. Stand back and carefully set light to the liquor with a match. Let it flame then leave to bubble and reduce to a syrup.
+4. Meanwhile, crush the hazelnuts and divide between four plates, making a pile on each one.
+5. Spoon the pears onto the plates , cup side up. Remove the syrup from the heat, then snap most of the chocolate into the pan.
+6. While it melts, top each hazelnut pile with a nice round scoop of ice cream and shave over the last bit of chocolate.
+7. Mix up the chocolate syrup, drizzle into the pear cups and serve.
 ## Puddings & Mousse
 ### Cherry chocolate mousse
 6 Servings
@@ -546,6 +583,20 @@ p. 265
 3. Whip the cream to very soft peaks. Separate the eggs, add the yolks to the cream with the sugar and whisk to combine. Add a pinch of sea salt to the white and, with a clean whisk, beat until super-stiff.
 4. Fold the cooled chocolate into the cream, then very gently fold that through the egg whites with a spatula.
 5. Divvy up the mousse between six glasses or bowl, interspersing the cherries and syrup throughout and finishing with a few nice cherries on top.
+### Mango rice pudding
+4 Servings, 28 minutes
+p. 293
+#### Ingredients
+- 2/3 cup pudding or Arborio rice
+- 4 star anise
+- 12 oz frozen mango chunks
+- 4 tablespoons liquid honey
+- 4 tablespoons Greek style coconut yogurt
+#### Instructions
+1. Place the rice, star anise, frozen mango, 3 tablespoons of honey and a tiny pinch of sea salt in a pan on medium heat.
+2. Cover with 2 3/4 cups of water and simmer for 25 minutes or until thick and creamy, stirring occasionally.
+3. Stir through the yogurt so it's nice and creamy, then divide between you bowls.
+4. Drizzle over the remaining honey and enjoy.
 ## Pastry
 ### Almond pastry puff
 6 Servings, 28 minutes
@@ -565,5 +616,69 @@ p. 267
 6. Eggwash the top, the dust over an extra layer of sugar
 7. Gently push your finger into the middle of the pastry, then, with a sharp knife, very delicately make little lines from the center to the outside.
 8. Bake on the bottom of the oven for 12 to 15 minutes or until puffed up and golden, dusting with a little extra confectioner's sugar before dishing up.
-
-
+### Chocolate orange shortbread
+12 Servings, 30 minutes
+p. 279
+#### Ingredients
+- 11 tablespoons unsalted butter (at room temperature)
+- 1 1/3 cups all purpose flour
+- 1/4 cup golden caster sugar or superfine sugar, plus extra to sprinkle
+- 1 orange
+- 1 3/4 oz dark chocolate (70%)
+#### Instructions
+1. Preheat the oven to 375F. Grease an 8 inch square baking pan and line with parchment paper.
+2. In a bowl, mix together the butter, flour, sugar and the finely grated zest of halt the orange by rubbing the mixture between your thumbs and fingertips.
+3. Squash and pat into dough - don't knead it - then push into the lined pan in a 1/2 inch thick layer.
+4. Prick all over with a fork, then bake for 20 minutes or until lightly golden. Remove, sprinkle over a little extra sugar while it's still warm, then leave to cool.
+5. Meanwhile, melt the chocolate in a heatproof bowl over a pan of gently simmering water, then remove.
+6. Cut the shortbread into 12 finger portions, then transfer to a wire cooling rack. Drizzle with the chocolate, then finely grate over the remaining orange zest.
+7. Cut up the orange and serve on the side.
+## Cake
+### Frozen banoffee cheesecake
+10 Servings, 18 minutes, freeze overnight
+p. 287
+#### Ingredients
+- 5 oz dark chocolate (70%)
+- 10 oz package of Hobnobs
+- 8 overripe bananas
+- 1 lb light cream cheese
+- 1/2 x 16 oz jar of dulce de leche
+#### Instructions
+1. Rub the base of an 8 inch springform cake pan with olive oil and line with parchment paper, the rub the paper with oil too.
+2. Melt 1 3/4 oz of chocolate in a heatproof bowl over a pan of gently simmering water, then remove. Snap the Hobnobs into a food processor and blitz with 2 tablespoons of extra virgin olive oil until well combined.
+3. Drizzle in the melted chocolate, then pulse again. Pat into the cake pan in a 1/2 inch thick layer.
+4. Peel the bananas, tear into the food processor, add the cream cheese and dulce de leche, blitz well until nice and smooth, then pour over the biscuit base.
+5. Freeze overnight or until needed, transferring to the fridge for 2 hours before serving or until it's the slicing consistency you like.
+6. Loosen the edges of the cheesecake with a palette knife, then release from the pan.
+7. Shave or grate over the remaining chocolate and serve.
+## Cookies
+### Buddy's flapjack biscuits
+16 Servings, 29 minutes
+p. 297
+#### Ingredients
+- 7 tablespoons unsalted butter (at room temperature)
+- 3 1/2 oz mixed dried fruits and nuts
+- 1 cup rolled oats
+- Heaping 3/4 cup self-rising flour
+- 1/4 cup + 1 teaspoon golden syrup
+#### Instructions
+1. Preheat the oven to 350F. Line a deep 8 inch square baking pan with parchment paper and rub with olive oil. 
+2. Pulse the butter, dried fruit, nuts, oats, and flour in a food processor until the mix comes together and away from the sides, the pulse in the syrup until fully combined.
+3. Transfer to the lined pan, flattening to the edges.
+4. Bake for 15 to 20 minutes or until golden. Remove from the oven, score into 16 scares ready to cut and leave to cool in the pan for 5 minutes.
+5. Use the paper to lift out onto a wire rack and leave to cool completely. 
+### St Clement's polenta biscuits
+24 Servings, 28 minutes
+p. 301
+#### Ingredients
+- 7 tablespoons unsalted butter (cold)
+- Heaping 1/4 cup fine polenta
+- 1 cup self-rising flour
+- 1/2 cup golden caster sugar or superfine sugar, plus extra to sprinkle
+- 2 lemons
+#### Instructions
+1. Preheat the oven to 350F. Line two baking sheets with parchment paper and rub with olive oil. Cube the butter and place in a food processor with the polenta, flour and sugar.
+2. Finely grate in the zest of 1 lemon, then pulse to combine. Squeeze in the juice of half a lemon and pulse again to bring the mixture together into a ball of dough.
+3. Divide into 24 pieces, roll into balls and place on the baking sheets, leaving a 2 inch gar between them.
+4. With your thumb, create a 1/2 inch deep dent in the center of each ball. Finely grate the remaining lemon zest and scatter into the dents, followed by a little sprinkle of sugar.
+5. Bake for 10 minutes or until lightly golden. Transfer to a rack to cool then tuck in.

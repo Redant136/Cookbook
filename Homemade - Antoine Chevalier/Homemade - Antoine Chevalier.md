@@ -28,6 +28,7 @@ lang=en
 
 # Dinner
 ## Starter
+## Soup
 ## Eggs
 ## Pasta
 ## Chicken
