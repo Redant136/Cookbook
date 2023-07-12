@@ -1,17 +1,29 @@
 import os
 import re
 
-# print(os.walk("~/")[0])
-
-bestOf=["- [Tuna rice](Homemade%20-%20Antoine%20Chevalier/Homemade%20-%20Antoine%20Chevalier.md#Tuna%20rice)",
-"- [Seared sesame tuna](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Seared%20sesame%20tuna)",
-"- [Pork porcini pasta](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Pork%20porcini%20pasta)"]
-dirs=["Homemade - Antoine Chevalier"]
+dirs=[]
 dirs.extend(os.listdir("./"))
 
-objectList={}
 aggregatedRecipes={}
 aggregatedRecipes["Books"]=[]
+
+with open("IndexFormat.md") as f:
+    h1=""
+    h2=""
+    for line in f:
+        if(re.match("# .*",line)):
+            line=line.replace("# ","")
+            line=line.replace("\n","")
+            if not (line in aggregatedRecipes):
+                aggregatedRecipes[line]={}
+            h1=line
+        if(re.match("## .*",line)):
+            line=line.replace("## ","")
+            line=line.replace("\n","")
+            if not (line in aggregatedRecipes[h1]):
+                aggregatedRecipes[h1][line]=[]
+            h2=line
+
 
 
 for d in dirs:
@@ -30,23 +42,16 @@ for d in dirs:
         for line in f:
             if(re.match("lang=.+",line)):
                 lang=re.match("lang=(.+)",line).groups()[0]
-                if not (lang in objectList):
-                    objectList[lang]={}
-                    objectList[lang]["Books"]=[]
                 continue
             if(re.match("# .*",line)):
                 line=line.replace("# ","")
                 line=line.replace("\n","")
-                if not (line in objectList[lang]):
-                    objectList[lang][line]={}
                 if not (line in aggregatedRecipes):
                     aggregatedRecipes[line]={}
                 h1=line
             if(re.match("## .*",line)):
                 line=line.replace("## ","")
                 line=line.replace("\n","")
-                if not (line in objectList[lang][h1]):
-                    objectList[lang][h1][line]=[]
                 if not (line in aggregatedRecipes[h1]):
                     aggregatedRecipes[h1][line]=[]
                 h2=line
@@ -54,17 +59,43 @@ for d in dirs:
                 line=line.replace("### ","")
                 line=line.replace("\n","")
                 line="- ["+line+"]("+filePath.replace(" ","%20")+"#"+line.replace(" ","%20")+")"
-                if not(line in objectList[lang][h1][h2]):
-                    objectList[lang][h1][h2].append(line)
-                if not(line in aggregatedRecipes[h1][h2]):
-                    aggregatedRecipes[h1][h2].append(line)
-        if not ("Books" in objectList[lang]):
-            objectList[lang]["Books"]=[]
-        if not(toWrite in objectList[lang]["Books"]):
-            objectList[lang]["Books"].append(toWrite)
+                if not(next((item for item in aggregatedRecipes[h1][h2] if item["entry"] == line), None)):
+                    rec={"entry":line,"lang":lang,"img":"","tags":[]}
+                    aggregatedRecipes[h1][h2].append(rec)
+            if (re.match("tags=.+(;.*)*",line)):
+                line=line.replace("tags=","")
+                line=line.replace("\n","")
+                line=line.replace(" ","")
+                tags=line.split(";")
+                aggregatedRecipes[h1][h2][-1]["tags"]=tags
+            if(re.match("also=(h1|h2):.+(;[h1,h2]:.+)*",line)):
+                rec=aggregatedRecipes[h1][h2][-1]
+                line=line.replace("also=","")
+                line=line.replace("\n","")
+                line=line.replace(" ","")
+                also=line.split(";")
+                nH1=h1
+                nH2=h2
+                for a in also:
+                    match=re.match("(h1|h2):(.+)",a)
+                    if(match[1]=="h1"):
+                        nH1=match[2]
+                    if(match[1]=="h2"):
+                        nH2=match[2]
+                aggregatedRecipes[nH1][nH2].append(rec)
+            if(re.match("!\\[.+\\]\\(.+\\)",line)):
+                img=re.match("!\\[.+\\]\\((.+)\\)",line)[1]
+                if(re.match("img/.+",img)):
+                    img=img.replace("img/","")
+                aggregatedRecipes[h1][h2][-1]["img"]=img
+
+
+
 
 f=open("Index.md","w")
 
+# print(aggregatedRecipes)
+bestOf=[]
 for h1 in aggregatedRecipes.keys():
     f.write("# "+h1+"\n")
     if type(aggregatedRecipes[h1]) is list:
@@ -74,11 +105,14 @@ for h1 in aggregatedRecipes.keys():
         for h2 in aggregatedRecipes[h1].keys():
             f.write("## "+h2+"\n")
             for e in aggregatedRecipes[h1][h2]:
-                f.write(e+"\n")
-
+                f.write(e["entry"]+"\n")
+                if("bestOf" in e["tags"]):
+                    if not(e in bestOf):
+                        bestOf.append(e)
+    
 f.write("# Best Of\n")
 for b in bestOf:
-    f.write(b+"\n")
+    f.write(b["entry"]+"\n")
 
 
 

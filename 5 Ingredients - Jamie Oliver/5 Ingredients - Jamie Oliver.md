@@ -226,11 +226,12 @@ p.131
 - 1/2 a bunch of fresh cilantro (1/2 oz)
 - 1 lb salmon fillets, skin off, pin-boned
 - 4 teaspoons chili jam
+- *1 egg*
 #### Instructions
 1. Whack the lemongrass against your work surface and remove the tough outer layer.
 2. Peel the ginger, the very finely chop with the inside of the lemongrass and most of the cilantro, stalks and all, reserving a few nice leaves in a bowl of cold water.
 3. Chop the salmon into 1/2 inch thick chunks over the mix on your board, then push half the salmon to one side.
-4. Chop the rest until super-fine, almost like a puree, then mix the chunkier bits back through it and season with seas salt and black pepper.
+4. Chop the rest until super-fine, almost like a puree, then mix the chunkier bits back through it and season with sea salt and black pepper *and add the egg*.
 5. Divide into 4, then shape and squash into 3/4 inch thick patties
 6. Place a large non-stick frying pan on a medium-high heat with 1 tablespoon of olive oil.
 7. Cook the patties for 2 minutes on each side, or until nicely golden.
@@ -239,6 +240,7 @@ p.131
 ### Seared sesame tuna
 2 Servings, 10 minutes
 p. 135
+tags=bestOf
 #### Ingredients
 - 1 heaping tablespoon white miso paste
 - 2x 5 oz tuna steaks (ideally 3/4 inch thick)
@@ -295,6 +297,7 @@ p. 165
 ### Easy rustic gnocchi
 2 Servings, 30 minutes
 p. 169
+also=h2:Pasta
 #### Ingredients
 - 14 oz floury potatoes
 - 12 oz asparagus
@@ -597,7 +600,7 @@ p. 293
 2. Cover with 2 3/4 cups of water and simmer for 25 minutes or until thick and creamy, stirring occasionally.
 3. Stir through the yogurt so it's nice and creamy, then divide between you bowls.
 4. Drizzle over the remaining honey and enjoy.
-## Pastry
+## Baking
 ### Almond pastry puff
 6 Servings, 28 minutes
 p. 267
@@ -627,7 +630,7 @@ p. 279
 - 1 3/4 oz dark chocolate (70%)
 #### Instructions
 1. Preheat the oven to 375F. Grease an 8 inch square baking pan and line with parchment paper.
-2. In a bowl, mix together the butter, flour, sugar and the finely grated zest of halt the orange by rubbing the mixture between your thumbs and fingertips.
+2. In a bowl, mix together the butter, flour, sugar and the finely grated zest of half the orange by rubbing the mixture between your thumbs and fingertips.
 3. Squash and pat into dough - don't knead it - then push into the lined pan in a 1/2 inch thick layer.
 4. Prick all over with a fork, then bake for 20 minutes or until lightly golden. Remove, sprinkle over a little extra sugar while it's still warm, then leave to cool.
 5. Meanwhile, melt the chocolate in a heatproof bowl over a pan of gently simmering water, then remove.
