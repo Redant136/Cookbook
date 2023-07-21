@@ -16,8 +16,9 @@
 ## Beef
 ## Pork
 ## Lamb
+## Pizza
 ## Rice & Noodles
-### Tuna rice
+## Sides
 # Desert
 ## Fruits
 ## Puddings & Mousse

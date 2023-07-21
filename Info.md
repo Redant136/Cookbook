@@ -6,17 +6,17 @@
 - 
 - 
 ## Mercredi
-- 
-- 
+- restant
+- hot dog
 ## Jeudi
 - 
-- 
+- taco
 ## Vendredi
 - 
-- 
+- nouilles peanut
 ## Samedi
 - 
-- 
+- spagat
 ## Dimanche
 - 
 - 

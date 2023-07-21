@@ -2,6 +2,7 @@ lang=en,fr
 # Breakfast
 ## Baking
 ### Pain aux bananes
+sort=banana bread
 also=h1:Desert
 #### Ingredients
 - 1 1/2 tasse de farine tout usage non blanchie 
@@ -197,6 +198,7 @@ Preparation 30 MIN Cooking 45 MIN Waiting 1 H 45 MIN Servings 10
 ## Cake
 ### Gâteau aux carottes de Mme. Chevalier
 tags=bestOf
+sort=carrot cake
 #### Ingredients
 ##### Gâteau
 - 3 oeufs
@@ -254,7 +256,6 @@ recette a été doublée
 ### Banana Cookies
 3 Dozen Servings 
 tags=bestOf
-*Use a ripe banana, which has more concentrated flavor than an unripe one.*
 #### Ingredients
 - 1 cup all-purpose flour
 - ½ cup whole-wheat flour
@@ -265,7 +266,7 @@ tags=bestOf
 - ½ cup packed light-brown sugar
 - 1 large egg
 - 1½ teaspoons pure vanilla extract
-- 1 cup mashed ripe banana (about 2 large)
+- 1 cup mashed ripe banana (about 2 large) (Use a ripe banana, which has more concentrated flavor than an unripe one)
 - 1 cup old-fashioned rolled oats
 - 8 ounces semisweet chocolate, coarsely chopped into ¼-inch chunks
 - ½ cup coarsely chopped walnuts (about 2 ounces), toasted *(optional)*

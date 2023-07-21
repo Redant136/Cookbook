@@ -63,12 +63,15 @@ p. 90
 ### Sauce tomate aux boulettes
 6-8 Servings
 p. 96
+sort=meatballs pasta
 ### Pasta bolognese
 4-5 Servings
 p. 98
+sort=bolognese pasta
 ### Spaguetti alla carbonara
 2 Servings
 p. 108
+sort=carbonara pasta
 ### Pappardelle aux champignons
 4 Servings
 p. 112

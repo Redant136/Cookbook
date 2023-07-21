@@ -58,9 +58,10 @@ for d in dirs:
             if(re.match("### .*",line)):
                 line=line.replace("### ","")
                 line=line.replace("\n","")
-                line="- ["+line+"]("+filePath.replace(" ","%20")+"#"+line.replace(" ","%20")+")"
+                name=line
+                link=filePath.replace(" ","%20")+"#"+line.replace(" ","%20")
                 if not(next((item for item in aggregatedRecipes[h1][h2] if item["entry"] == line), None)):
-                    rec={"entry":line,"lang":lang,"img":"","tags":[]}
+                    rec={"entry":"- ["+name+"]("+link+")","name":name,"link":link,"lang":lang,"img":"","sort":name,"tags":[]}
                     aggregatedRecipes[h1][h2].append(rec)
             if (re.match("tags=.+(;.*)*",line)):
                 line=line.replace("tags=","")
@@ -88,6 +89,9 @@ for d in dirs:
                 if(re.match("img/.+",img)):
                     img=img.replace("img/","")
                 aggregatedRecipes[h1][h2][-1]["img"]=img
+            if(re.match("sort=.+",line)):
+                sort=line.split("=")[1]
+                aggregatedRecipes[h1][h2][-1]["sort"]=sort
 
 
 
@@ -104,6 +108,7 @@ for h1 in aggregatedRecipes.keys():
     if type(aggregatedRecipes[h1]) is dict:
         for h2 in aggregatedRecipes[h1].keys():
             f.write("## "+h2+"\n")
+            aggregatedRecipes[h1][h2].sort(key=lambda x: x["sort"].lower())
             for e in aggregatedRecipes[h1][h2]:
                 f.write(e["entry"]+"\n")
                 if("bestOf" in e["tags"]):

@@ -42,7 +42,6 @@ also=h1:Dinner
 7. Put the butter in the pot, using the remaining heat to melt the butter and stir the potatoes, making sure the butter is spread nicely.
 8. Serve the steak with the potatoes to the side and enjoy.
 ## Rice & Noodles
-### Tuna rice
 ### Sesame peanut noodles
 4 Servings, ~20 minutes
 ![Sesame peanut noodles](img/thai-peanut-noodles-6.jpg)

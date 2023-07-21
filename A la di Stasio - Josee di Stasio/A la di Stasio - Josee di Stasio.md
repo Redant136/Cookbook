@@ -39,6 +39,7 @@ p. 55
 ### Sauce tomate
 500 g pasta, ~20 minutes
 p. 94
+sort=tomato sauce
 #### Ingredients
 - 45 ml (3 c. à soupe) d'huile d'olive ou de beurre
 - 1 à 2 gousses d'ail dégermé, haché
@@ -57,6 +58,7 @@ p. 94
 ### Pasta pepe e cacio
 4 Servings
 p. 96
+sort=pepper pasta
 #### Ingredients
 - 500 g (1 lb) de pates
 - 30 à 60 ml (2 à 4 c. à soupe) de beurre ou d'huile d'olive ou les deux en parts égales
@@ -179,6 +181,7 @@ p. 163
 ### Gateau de fête au chocolat
 16 Servings
 p. 158
+sort=chocolate cake
 #### Ingredients
 - 250 g (8 oz) de chocolat mi-sucré haché grossièrement 
 - 125 ml (1/2 tasse) de beurre doux 
@@ -207,6 +210,7 @@ p. 158
 ### Gateau soufflé au citron
 6-8 Servings
 p. 164
+sort=lemon cake
 #### Ingredients
 - 4 œufs, jaunes et blancs séparés 
 - Une pincée de sel 250 ml (1 tasse) de sucre 
@@ -231,6 +235,7 @@ p. 164
 ### Carrés de truffes
 16 squares
 p. 150
+sort=chocolate truffle
 #### Ingredients
 - 60 ml (1/4 tasse) de crème 35 % 
 - 120 g (4 oz) de chocolat mi-sucré haché 
