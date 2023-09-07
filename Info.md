@@ -6,8 +6,8 @@
 - 
 - 
 ## Mercredi
-- restant
-- hot dog
+- 
+- 
 ## Jeudi
 - 
 - taco
@@ -16,7 +16,7 @@
 - nouilles peanut
 ## Samedi
 - 
-- spagat
+- 
 ## Dimanche
 - 
 - 
@@ -24,12 +24,20 @@
 
 
 ## TODO
-- bicuits bananes
-- fishcake
-- shortbread orange
+- creame coffee cream puff
+- 
 - 
 
 
+- vin blanc
+- bouillon poulet 
+- scallions
+- lait avoine
+- farine
+- lait
+- poulet
+- pizza congele
+- 
 
 
 

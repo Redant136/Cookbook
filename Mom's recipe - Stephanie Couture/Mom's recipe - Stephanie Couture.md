@@ -159,7 +159,6 @@ Preparation 30 MIN Cooking 45 MIN Waiting 1 H 45 MIN Servings 10
 - 3/4 tasse de farine
 - 1 tsp baking powder
 - 1/2 c. A the de sel
-
 #### Instructions
 1. Wish 2 large eggs with 1/3 de tasse de sucre, 1 c. a table de miel, 2 c a the de zeste de citron ou orange
 2. Ajouter les ingredients secs
@@ -167,8 +166,9 @@ Preparation 30 MIN Cooking 45 MIN Waiting 1 H 45 MIN Servings 10
 4. Transferer dans un sac de plastique pour 1 heure
 5. Cuire a 400 8 à 10 minutes.
 ### Tarte feuilleté aux pommes
+sort=apple tart
 #### Ingredients
-- 200 g (8 onces) de pâte feuilletée du commerce dégelée* de 25 x 25 cm (10 x 10 po) * voir NOTE
+- 200 g (8 onces) de pâte feuilletée du commerce dégelée* de 25 x 25 cm (10 x 10 po)
 - 1 oeuf battu
 - 3 pommes Spartan ou Cortland pelées, épépinées et coupées en fins quartiers de ½ cm (1/4 po) 
 - 125 ml (1/2 tasse) de sucre granulé

@@ -472,7 +472,7 @@ p. 245
 #### Ingredients
 - 6 scallions
 - 8 oz cooked basamati rice
-- 2 heapig teaspoons chili jam
+- 2 heaping teaspoons chili jam
 - 2 large eggs
 - 5 oz firm silken tofu
 #### Instructions
