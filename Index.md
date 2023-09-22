@@ -1,16 +1,21 @@
 # Books
 - [5 Ingredients - Jamie Oliver](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md)
 - [A la di Stasio - Josee di Stasio](A%20la%20di%20Stasio%20-%20Josee%20di%20Stasio/A%20la%20di%20Stasio%20-%20Josee%20di%20Stasio.md)
+- [Cookies - Williams Sonoma](Cookies%20-%20Williams%20Sonoma/Cookies%20-%20Williams%20Sonoma.md)
 - [Homemade - Antoine Chevalier](Homemade%20-%20Antoine%20Chevalier/Homemade%20-%20Antoine%20Chevalier.md)
 - [Mom's recipe - Stephanie Couture](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md)
 - [Pasta et Cetera a la di stasio - Josee di Stasio](Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio/Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio.md)
+- [Savoring Tuscany - Williams Sonoma](Savoring%20Tuscany%20-%20Williams%20Sonoma/Savoring%20Tuscany%20-%20Williams%20Sonoma.md)
 - [Simply Tuscan - Pino Luongo](Simply%20Tuscan%20-%20Pino%20Luongo/Simply%20Tuscan%20-%20Pino%20Luongo.md)
 # Breakfast
 ## Eggs
 ## Baking
 - [Pain aux bananes](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Pain%20aux%20bananes)
+- [Crêpes](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Crêpes)
 - [Lemon Ricotta Pancakes](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Lemon%20Ricotta%20Pancakes)
 # Lunch
+## Eggs
+- [Devilled eggs](Homemade%20-%20Antoine%20Chevalier/Homemade%20-%20Antoine%20Chevalier.md#Devilled%20eggs)
 ## Sandwich
 - [Steak sandwich](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Steak%20sandwich)
 ## Salad
@@ -20,7 +25,10 @@
 - [Tuna rice](Homemade%20-%20Antoine%20Chevalier/Homemade%20-%20Antoine%20Chevalier.md#Tuna%20rice)
 # Dinner
 ## Starter
+- [Biscuits Aperitif fromage](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Biscuits%20Aperitif%20fromage)
+- [Devilled eggs](Homemade%20-%20Antoine%20Chevalier/Homemade%20-%20Antoine%20Chevalier.md#Devilled%20eggs)
 - [Grilled figs wrapped in prosciutto](Simply%20Tuscan%20-%20Pino%20Luongo/Simply%20Tuscan%20-%20Pino%20Luongo.md#Grilled%20figs%20wrapped%20in%20prosciutto)
+- [Polenta Fritta con Acciugata](Savoring%20Tuscany%20-%20Williams%20Sonoma/Savoring%20Tuscany%20-%20Williams%20Sonoma.md#Polenta%20Fritta%20con%20Acciugata)
 - [Ramequins d'oeufs et jambon](A%20la%20di%20Stasio%20-%20Josee%20di%20Stasio/A%20la%20di%20Stasio%20-%20Josee%20di%20Stasio.md#Ramequins%20d'oeufs%20et%20jambon)
 ## Soup
 - [Soupe de poisson au fenouil et à l'orange](Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio/Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio.md#Soupe%20de%20poisson%20au%20fenouil%20et%20à%20l'orange)
@@ -76,6 +84,7 @@
 - [Osso bucco](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Osso%20bucco)
 - [Roasted veal with lemon and sage](Simply%20Tuscan%20-%20Pino%20Luongo/Simply%20Tuscan%20-%20Pino%20Luongo.md#Roasted%20veal%20with%20lemon%20and%20sage)
 - [Seared carpaccio with spaghetti squash, asparagus and pecorino](Simply%20Tuscan%20-%20Pino%20Luongo/Simply%20Tuscan%20-%20Pino%20Luongo.md#Seared%20carpaccio%20with%20spaghetti%20squash,%20asparagus%20and%20pecorino)
+- [Taco Seasoning](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Taco%20Seasoning)
 ## Pork
 - [Comformting sausage bake](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Comformting%20sausage%20bake)
 - [Crazy pork burger](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Crazy%20pork%20burger)
@@ -95,7 +104,6 @@
 - [Sesame shiitake egg noodles](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Sesame%20shiitake%20egg%20noodles)
 - [Sweet and sour chicken noodles](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Sweet%20and%20sour%20chicken%20noodles)
 - [Tuna rice](Homemade%20-%20Antoine%20Chevalier/Homemade%20-%20Antoine%20Chevalier.md#Tuna%20rice)
-- [Tuna rice](Homemade%20-%20Antoine%20Chevalier/Homemade%20-%20Antoine%20Chevalier.md#Tuna%20rice)
 ## Sides
 - [Caramelized Onions and Chestnuts](Simply%20Tuscan%20-%20Pino%20Luongo/Simply%20Tuscan%20-%20Pino%20Luongo.md#Caramelized%20Onions%20and%20Chestnuts)
 # Desert
@@ -112,13 +120,14 @@
 ## Baking
 - [Almond pastry puff](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Almond%20pastry%20puff)
 - [Apple Roll](Simply%20Tuscan%20-%20Pino%20Luongo/Simply%20Tuscan%20-%20Pino%20Luongo.md#Apple%20Roll)
+- [Tarte feuilleté aux pommes](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Tarte%20feuilleté%20aux%20pommes)
 - [Upside down warm apple tart](Simply%20Tuscan%20-%20Pino%20Luongo/Simply%20Tuscan%20-%20Pino%20Luongo.md#Upside%20down%20warm%20apple%20tart)
 - [Pain aux bananes](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Pain%20aux%20bananes)
-- [Chocolate orange shortbread](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Chocolate%20orange%20shortbread)
 - [Madeleines (Daniel Boulu)](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Madeleines%20(Daniel%20Boulu))
 - [Monkey bread](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Monkey%20bread)
+- [Chocolate orange shortbread](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Chocolate%20orange%20shortbread)
+- [Scotch shortbread](Cookies%20-%20Williams%20Sonoma/Cookies%20-%20Williams%20Sonoma.md#Scotch%20shortbread)
 - [Tarte au sirop d'érable](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Tarte%20au%20sirop%20d'érable)
-- [Tarte feuilleté aux pommes](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Tarte%20feuilleté%20aux%20pommes)
 - [Tarte fines mangues et frangipane](A%20la%20di%20Stasio%20-%20Josee%20di%20Stasio/A%20la%20di%20Stasio%20-%20Josee%20di%20Stasio.md#Tarte%20fines%20mangues%20et%20frangipane)
 - [Torta caprese](Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio/Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio.md#Torta%20caprese)
 - [Tuscan cream puffs](Simply%20Tuscan%20-%20Pino%20Luongo/Simply%20Tuscan%20-%20Pino%20Luongo.md#Tuscan%20cream%20puffs)
@@ -133,7 +142,9 @@
 ## Cookies
 - [Banana Cookies](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Banana%20Cookies)
 - [Biscotti à tremper](Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio/Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio.md#Biscotti%20à%20tremper)
+- [Black and white cookies](Cookies%20-%20Williams%20Sonoma/Cookies%20-%20Williams%20Sonoma.md#Black%20and%20white%20cookies)
 - [Buddy's flapjack biscuits](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Buddy's%20flapjack%20biscuits)
+- [Chocolate chip cookies](Cookies%20-%20Williams%20Sonoma/Cookies%20-%20Williams%20Sonoma.md#Chocolate%20chip%20cookies)
 - [St Clement's polenta biscuits](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#St%20Clement's%20polenta%20biscuits)
 ## Alcohol
 - [Limoncello](Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio/Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio.md#Limoncello)
