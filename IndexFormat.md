@@ -2,6 +2,7 @@
 ## Eggs
 ## Baking
 # Lunch
+## Eggs
 ## Sandwich
 ## Salad
 ## Rice & Noodles

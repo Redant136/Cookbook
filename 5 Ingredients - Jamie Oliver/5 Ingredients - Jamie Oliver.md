@@ -622,6 +622,7 @@ p. 267
 ### Chocolate orange shortbread
 12 Servings, 30 minutes
 p. 279
+sort=shortbread
 #### Ingredients
 - 11 tablespoons unsalted butter (at room temperature)
 - 1 1/3 cups all purpose flour

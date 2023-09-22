@@ -1,6 +1,21 @@
 lang=en,fr
 # Breakfast
 ## Baking
+### Crêpes
+#### Ingredients
+- 1 tasses de farine
+- 1 c. à thé de sel
+- 2 gros oeufs
+- 1 c. à soupe de sucre (ou sirop d'érable)
+- 1 1/2 tasses de lait
+- 1 c. à soupe de beurre fondu
+#### Instructions
+1. Mélanger la farine et el sel dans un grand bol.
+2. Dans yun autre bol, battre kes oeufs.
+3. Ajouter le lait, le sucre et le beurre.
+4. Pour ne pas avoir de grumeaux, faire un trou dans la farine et verser tranquillement le mélange mouillé en brassant.
+5. Continuer jusqu'à ce que la farine soit tout intégré dans le mélange.
+6. Faire cuire dans poêle jusqu'à ce que la crêpe soit doré et les rebords lèvent de la poêle.  
 ### Pain aux bananes
 sort=banana bread
 also=h1:Desert
@@ -42,6 +57,23 @@ also=h1:Desert
 4. Heat a griddle or skillet over medium heat. Working in batches, add a tablespoon of butter at a time to the griddle or skillet and let melt (it will take only seconds).
 5. Ladle the pancake batter onto the surface, creating your desired size pancakes and evenly spacing them apart. Cook on one side until golden brown and bubbles begin to form on the top. Using a spatula, flip the pancake over and finish cooking on the other side.
 # Dinner
+## Starter
+### Biscuits Aperitif fromage
+4 à 5 douzaines
+#### Ingredients
+- 1 1/2 tasses de farine non blanchie
+- 1 c. à the de sel
+- poivre
+- 4 oz beurre doux
+- 9 oz de cheddar extra-fort râpé grossièrement
+#### Instructions
+1. Préchauffer le four à 200 C (400 F).
+2. Dans le bol du robot, mélanger tous les ingrédients jusqu'à la formation d'une boule qui roule sur la lame.
+3. Déposer la pâte sur une pellicule plastique.
+4. Former un cylindre. Réfrigérer bien à plat.
+5. Au moment de cuire, trancher le bâton de pâte en trance de .5 cm (1/4 pouce). Disposer sur une plaque.
+6. Cuire 10 à 12 minutes ou jusqu'à ce que les biscuits soient dorés.
+7. Les refroidir sur une grille.
 ## Eggs
 ### Omelette champignons et fromage
 #### Ingredients
@@ -91,6 +123,15 @@ also=h1:Desert
 6. Saler et poivrer au goût.
 7. Remettre la viande sur les legumes
 8. Porter à ébullition, réduire le feu et laisser mijoter 2 heures à mi-couvert ou cuire au four à 300 ºF pendant 2 heures (ou jusqu’à ce que la viande soit tendre).
+### Taco Seasoning
+#### Ingredients
+- 1 teaspoon ground chili powder 
+- 1 teaspoon ground cumin 
+- 1 teaspoon garlic powder 
+- 1 teaspoon onion powder 
+- 1 teaspoon dried oregano 
+- 1/2 teaspoon cayenne powder 
+- 1 teaspoon Kosher salt
 # Desert
 ## Puddings & Mousse
 ### Cobbler framboises et vanille

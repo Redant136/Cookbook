@@ -1,5 +1,20 @@
 lang=en
 # Lunch
+## Eggs
+### Devilled eggs
+also=h1:Dinner;h2:Starter
+#### Ingredients
+- 4 large eggs
+- Mayonnaise
+- salt and pepper
+- Chives (optionnal)
+#### Instructions
+1. Place the eggs in a bot with lightly salted water and place on the stove.
+2. Heat to medium-high until the water starts simmering, the reduce to medium and let cook for 10 minutes.
+3. Remove the eggs from the water and remove their shell.
+4. Scoop out the yolks and place them in a separate plate.
+5. Mix the yolks with mayo, salt and pepper and the chives
+6. Fill the whites back up with the yolks and serve.
 ## Rice & Noodles
 ### Tuna rice
 1-2 Servings, ~15 minutes
