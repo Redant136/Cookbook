@@ -309,9 +309,9 @@ p. 258
 p. 31
 #### Ingredients
 ##### Milk pudding
-- 1 cup sugar-
+- 1 cup sugar
 - ½ cup potato starch 
-- 1 quart whole milk 
+- 4 cups whole milk 
 - One 3-inch-long cinnamon stick 
 - 1 vanilla bean, split open lengthwise 
 - One 1-inch strip of lemon zest over it so that the zest releases its oil over the pudding. 

@@ -16,6 +16,26 @@ sort=shortbread
 3. Sift the flour and salt together onto a sheet of waxed paper. Gradually add the flour mixture to the butter mixture and mix on low speed or stir with a wooden spoon until just blended.
 4. Using floured fingertips, press the dough evenly into the pan. Sprinkle evenly with the 1 tablespoon granulated sugar.
 5. Bake the shortbread until the edges are golden, about 1 hour. Remove the pan from the oven and immediately use a thin sharp knife to cut the shortbread into strips 3 inches by 1 inch. Use a toothpick or the tines of a fork to decorate the shortbread with a pattern of dots. Let the strips cook in the pan on a wire rack for 30 minutes before transferring them to the rack to cool completely.
+### Madeleines
+2 Douzens
+p. 21
+#### Ingredients
+- 1 1/4 cups cake flour
+- 1/4 teaspoon baking powder
+- 1/4 teaspoon salt
+- 2 large eggs
+- 2 large egg yolks
+- 3/4 cups sugar
+- 1 teaspoon vanilla extract
+- Grated zest of 1/2 lemon
+- 1/2 cup unsalted butter, melted and cooled
+#### Instructions
+1. Preheat the oven to 375F. Generously brush a standard 12 mold madeleine pan with melted butter and lightly dust with flour, tapping out any excess. (If using a nonstick pan, there is no need to dust it with flour, but brushing with butter will add flavor).
+2. Sift the flour, baking powder and salt together into a bowl. Set the dry ingredients aside.
+3. In a large bowl, using an electric mixer on medium-high speed, beat the whole eggs, egg yolks and sugar until light and fluffy. Add the vanilla and lemon zest and beat until well combined.
+4. Using a rubber spatula, fold the flour mixture into the egg mixture until blended. Add the melted butter and fold until well combined.
+5. Drop the batter by heaping tablespoonfuls into the madeleine molds. Fill each mold three-fourth full. Bake until golden brown and springy to the touch. About 15 minutes.
+6. Immediately invert the pan onto a wire rack. If necessary, use a knife to pry the cookies gently from the pan. Let the cookies cool completely on the rack. Wipe out the pan, let cool, brush with the melted butter, dust with flour and repeat with the remaining batter.
 ## Cookies
 ### Black and white cookies
 p. 34
@@ -52,3 +72,20 @@ p. 10
 3. Add the flour mixture to the butter mixture and mix on low speed or stir with a wooden spoon just until blended. Add the chocolate chips and the walnuts mixing or stirring just until blended. 
 4. With dampened hands, shape the dough into 1 inch balls or drop by rounded tablespoons onto the baking sheets, spacing the cookies about 2 inches apart.
 5. Bake the cookies until golden brown around the edges, about 12 minutes. Let the cookies cool briefly on the pans on wire racks before transferring them to the racks to cool completely.
+### Peanut butter cookies
+3 dozen cookies
+p. 53
+#### Ingredients
+- 1/2 cup unsalted butter, melted
+- 1/2 cup firmly packed light brown sugar
+- 1/2 cup granulated sugar
+- 1 cup creamy peanut butter
+- 1 large egg
+- 1 teaspoon vanilla extract
+- 1 1/2 cups all-purpose flour
+- 1/2 teaspoon baking powder
+- 1/2 teaspoon baking soda
+- 1/2 teaspoon salt
+- 3 oz semisweet chocolate, melted (optional)
+#### Instructions
+1. In a large bowl, using an

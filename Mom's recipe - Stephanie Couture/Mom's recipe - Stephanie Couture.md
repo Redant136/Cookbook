@@ -211,7 +211,7 @@ sort=apple tart
 #### Ingredients
 - 200 g (8 onces) de pâte feuilletée du commerce dégelée* de 25 x 25 cm (10 x 10 po)
 - 1 oeuf battu
-- 3 pommes Spartan ou Cortland pelées, épépinées et coupées en fins quartiers de ½ cm (1/4 po) 
+- ~~3~~ *2 1/2* pommes Spartan ou Cortland pelées, épépinées et coupées en fins quartiers de ½ cm (1/4 po)
 - 125 ml (1/2 tasse) de sucre granulé
 - 60 ml (1/4 tasse) de crème fraîche 
 - 45 ml (3 c. à soupe) d’amandes effilées
@@ -220,7 +220,7 @@ sort=apple tart
 1. Préchauffer le four à 400°F.
 2. Tapisser une grande plaque à cuisson de papier parchemin et y déposer le carré de pâte feuilletée.
 3. Badigeonner avec l’œuf battu environ ½ cm (1/4 po) sur tout le pourtour de la pâte.
-4. Replier le rebord vers l’intérieur et sceller uniquement le joint à l’aide des dents d’une fourchette.
+4. Replier le rebord vers l’intérieur *pour créer une croute* et sceller uniquement le joint à l’aide des dents d’une fourchette.
 5. Piquer abondamment l’abaisse à l’aide d’une fourchette à l’exception des rebords.
 6. Dans un bol, mélanger les quartiers de pomme avec 30 ml (2 c. à soupe) de sucre granulé. Étaler joliment sur l’abaisse.
 7. Badigeonner les rebords d’œufs battus.

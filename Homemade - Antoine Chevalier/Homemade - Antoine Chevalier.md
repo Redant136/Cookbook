@@ -78,5 +78,20 @@ also=h1:Dinner
 1. In a blender, combine the peanut butter, soy sauce, sesame oil, rice vinegar, water, brown sugar, garlic, and ginger and blend until smooth.
 2. In a large bowl, combine the noodles, carrots then pour over the peanut sauce. Use tongs to toss well until the sauce is fully incorporated.
 3. Divide the noodles between serving bowls and garnish with peanuts, black sesame seeds, and scallions.
+# Desert
+## Cookies
+### Kraft Peanut butter cookies
+24 cookies
+sort=Peanut butter cookies
+#### Ingredients
+- 1 cup peanut butter
+- 1/2 cup sugar
+- 1 egg
+#### Instructions
+1. Heat oven to 325F.
+2. Mix ingredients until blended.
+3. Roll into 24 balls. Place 2 inches apart on baking sheets. Flatten each in criss cross pattern with a fork.
+4. Bake 15 minutes. Cool on baking sheet 5 minutes. Remove to wire rack; cool completely.
 
-
+## Pastry
+### Coffee cream puff
