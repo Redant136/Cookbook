@@ -95,3 +95,20 @@ sort=Peanut butter cookies
 
 ## Pastry
 ### Coffee cream puff
+
+
+## Other
+### Meringues
+~10 Meringues
+#### Ingredients
+- 3 large egg whites (3 ounces or 90 grams)
+- 1/4 teaspoon cream of tartar
+- 3/4 cup (150 grams) superfine or caster sugar (if you don't have superfine sugar simply take granulated white sugar and process it for about 30-60 seconds in a food processor)
+- 1/4 teaspoon pure vanilla extract
+- 1/4 cup shaved Almonds (optional)
+#### Instructions
+1.  Preheat oven to 200 degrees F (95 degrees C) and place the rack in the center of the oven. Line a baking sheet with parchment paper. You can form the cookies with a pastry bag fitted with a 1/2 inch (1.25 cm) plain tip, or I often just use two spoons to make the cookies. 
+2. In the bowl of your electric mixer, with the whisk attachment, beat the egg whites on low-medium speed until foamy. Add the cream of tartar and continue to beat the whites until they hold soft peaks. Add the sugar, a little at a time, and continue to beat, on medium-high speed, until the meringue holds very stiff peaks. Beat in the vanilla extract.  
+	>Note: The meringue is done when it holds stiff peaks and when you rub a little between your thumb and index finger it does not feel gritty. If it feels gritty the sugar has not fully dissolved so keep beating until it feels smooth between your fingers.
+3. Before placing the cookies on the cookie sheet, place a little of the meringue on the underside of each corner of the parchment paper. This will prevent the paper from sliding.  Transfer the meringue to a pastry bag fitted with a 1/2 inch (1.25 cm) tip. Pipe 2 1/2 inch (6 cm) rounds of meringue in rows on the prepared baking sheet. Alternatively, spoon mounds of meringue, using two spoons, onto the prepared sheets. Sprinkle the tops of the cookies with a few shaved almonds, if desired.
+4. Bake the meringues for approximately 1 1/2 to 1 3/4 hours, rotating the baking sheet from front to back (about half way through) to ensure even baking. The meringues are done when they are pale in color and fairly crisp. (The meringues will release easily from the parchment paper.) Turn off the oven, open the door a crack, and leave the meringues in the oven to finish drying several hours or overnight. The meringues can be covered and stored at room temperature for several days.

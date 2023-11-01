@@ -1,4 +1,19 @@
 lang=en
+# Breakfast
+## Eggs
+### Asian fried eggs
+2 Servings, 10 minutes
+p. 82
+#### Ingredients
+- 2 scallions
+- 1-2 fresh mixed-color chilies
+- 2 heaping tablespoons mixed raw sesame seeds
+- 4 large eggs
+- 2 tablespoons hoisin sauce
+#### Instructions
+1. Trim the scallions, very finely slice at an angle with the chillies, pop both into a bowl of ice cold water, add a swig or red wine vinegar and put aside.
+2. Place a large non-stick frying pan on a medium high heat and lightly toast the sesame seeds for 1 minutes. Drizzle 1 tablespoon of olive oil, then crack in the eggs. Put a lid on the pan, and fry to your liking.
+3. Place the eggs on your plate. From a height, drizzle over the hoisin (loosening with a splash of water first, if needed). Drain and scatter over the scallions and chilies, stab the yolks and enjoy.
 # Lunch
 ## Sandwich
 ### Steak sandwich
@@ -18,6 +33,21 @@ p. 193
 5. Sear the steaks in the screaming hot pan for just 40 seconds on each side, then slice and lay over the cheese, cover, then turn the heat off and leave to melt for just 40 seconds more.
 6. Lay the steak on top of the onion, pop the other slices of bread, drizzle with a little virgin olive oil and enjoy.
 ## Salad
+### Hoisin Chicken Lettuce Cups
+2 Servings, 17 minutes
+p. 14
+#### Ingredients
+- 1 ripe mango
+- 2 tablespoons hoisin sauce
+- 2x4oz boneless skinless chicken breast
+- 1 romaine lettuce (10oz)
+- 1 cup sprouting cress
+#### Instructions
+1. Put  a grill pan on high heat. Cut the two cheeks off the mango, slice each into three lengthways, then slice off the skin and discard. Dice all the flesh into 1/2-inch cubes.
+2. Scrunch the stone over a bowl, to extract and pulp and juice mix with the hoisin to make a dressing and divide between two little bowls.
+3. Flatten the chicken breasts by pounding them with your fists until the fat end is the same thickness as the skinny end. Rub with 1 tablespoon of olive oil and a punch of sea salt and black pepper, then grill for 2 to 3 minutes on each side or until bar marked and cooked through. 
+4. Meanwhile, trim the lettuce, click the leaves apart and divide between two plates, snipping the cress alongside.
+5. Divide up the mango and the hoisin bowl, Slice the chicken and arrange on the plates, then tuck in, using the lettuce cups as a receptacle to hold everything. 
 ### Prosciutto celeriac salad
 2 Servings, 10 minutes
 p. 43
