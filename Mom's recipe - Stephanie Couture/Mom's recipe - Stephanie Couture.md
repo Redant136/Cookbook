@@ -11,7 +11,7 @@ lang=en,fr
 - 1 c. à soupe de beurre fondu
 #### Instructions
 1. Mélanger la farine et el sel dans un grand bol.
-2. Dans yun autre bol, battre kes oeufs.
+2. Dans un autre bol, battre les œufs.
 3. Ajouter le lait, le sucre et le beurre.
 4. Pour ne pas avoir de grumeaux, faire un trou dans la farine et verser tranquillement le mélange mouillé en brassant.
 5. Continuer jusqu'à ce que la farine soit tout intégré dans le mélange.
@@ -21,7 +21,8 @@ sort=banana bread
 also=h1:Desert
 #### Ingredients
 - 1 1/2 tasse de farine tout usage non blanchie 
-- 1 c. à thé de poudre à pâte 1 c. à thé de bicarbonate de soude 
+- 1 c. à thé de poudre à pâte
+- 1 c. à thé de bicarbonate de soude 
 - 1 1/4 tasse de bananes mûres écrasées à la fourchette (3 à 4 bananes) 
 - 1/2 tasse de lait d’amandes 1/2 tasse de beurre non salé, ramolli
 - 3/4 de tasse de sucre 
@@ -97,6 +98,58 @@ also=h1:Desert
 6. Mélanger crème, nutmeg, eggs, sel poivre, fromage.
 7. Verser liquide dans légumes et mélanger.
 8. Cuire 30 minutes.
+## Pasta
+### Pates Ricotta Épinards
+#### Ingredientts
+- 1 boites de pates courtes (500g)
+- 1 grosse boite ou 2 petites boites de bébés épinards
+- 1 petit oignon
+- 1 gousse d’ail
+- 1/4 a 1/2 tasses de canneberges séchées (au gout)
+- 1 pot de ricotta 500g
+- Une petite louche d’eau de cuisson
+- Sel
+- Quelques noix de pin grillées pour le service (au gout)
+#### Instructions
+1. Blanchir les bebes épinards. Une fois blanchis hacher les épinards
+2. Faire revenir les oignons, y ajouter les épinards; saler et poivrer le melange
+3. Faire tremper les canneberges dans l’eau 20-30 min (je les fait chauffer 40 secondes au micro-ondes, ca réduit le temps de trempage)
+4. Faire bouillir les pates. Conserver une petite louche d’eau de cuisson avant d’égoutter les pates
+5. Mettre le ricotta dans un grand bol (pouvant contenir toutes les pates)
+6. Ajouter un peu d’eau de cuisson dans le ricotta (juste assez pour le rendre plus crémeux)
+7. Saler le melange de fromage
+8. Ajouter au fromage le mélange d’oignons et épinards
+9. Égoutter les canneberges et les ajouter au mélanger fromage
+10. Ajouter les pates et bien mélanger
+11. Si vous aimez les noix de pin, vous pouvez en mettre quelques unes au service sur le dessus.
+
+## Chicken
+### Coconut chicken curry
+30 minutes
+#### Ingredients
+- 3 tablespoons coconut oil, separated
+- 1/2 medium yellow onion, diced (~1/2 cup)
+- 3 cloves minced garlic (~1 and 1/2 teaspoons)
+- 2 tablespoons finely minced ginger (from a 1 and 1/2 inch piece)
+- 2 teaspoons yellow curry powder
+- 3 tablespoons red curry paste (I use Thai Kitchen; reduce or increase as desired for spice levels)
+- 2 teaspoons ground coriander
+- 2 large red bell pepper
+- 1 pound boneless skinless chicken breast or thighs, cut into 1 inch pieces
+- Fine sea salt and freshly cracked pepper
+- 1 can full fat coconut milk (NOT lite)
+- 1 tablespoon lime juice
+- 1-2 tablespoons brown sugar
+- 2 teaspoons fish sauce, optional
+- 1/4 cup cilantro and/or basil, diced
+- Serve over/with: cooked basmati rice and naan bread with additional lime wedges
+- Optional: chopped peanuts or cashews
+#### Instructions
+1. Start by prepping ingredients: dice the onion, mince the garlic, and mince the ginger. I peel the ginger with a spoon or vegetable peeler and then finely mince it. Thinly slice the red bell pepper into long vertical strips and then cut those strips in half horizontally.  
+2. Heat 2 tablespoons coconut oil in a large deep skillet over medium-high heat. Add the onion and saute for 3-5 minutes or until onions are beginning to get golden. Add the garlic and ginger. Stir to coat everything with the oil. Lower the heat to low and add in the curry powder, red curry paste, and coriander. Stir often for 2-3 minutes or until lightly toasted and fragrant. 
+3. Return the heat to medium high. Add in the remaining 1 tablespoon coconut oil and the red pepper. Stir for 1-2 minutes and then add in the bite-sized pieces of chicken. Sprinkle on salt and pepper to taste (I add 1 teaspoon fine sea salt and 1/2 teaspoon pepper). Cook, stirring often for about 4-5 minutes or until the chicken is browned on both sides, but not cooked through. 
+4. Pour in the coconut milk, lime juice, and brown sugar (to taste; I start with just 1 tablespoon). Stir until chicken is cooked through (juices run clear and it is cooked to 165 degrees F) and curry is slightly thickened (Note 1). If desired, stir in the fish sauce. 
+5. Serve over rice and/or with naan bread. Garnish individual plates with cilantro, basil, and/or crushed peanuts/cashews. Serve additional lime wedges by the side if desired
 ## Beef
 ### Osso bucco
 #### Ingredients
@@ -123,6 +176,25 @@ also=h1:Desert
 6. Saler et poivrer au goût.
 7. Remettre la viande sur les legumes
 8. Porter à ébullition, réduire le feu et laisser mijoter 2 heures à mi-couvert ou cuire au four à 300 ºF pendant 2 heures (ou jusqu’à ce que la viande soit tendre).
+### Escalope de veaux
+#### Ingredients
+- escalope  de veau
+- vin de cuisson
+- crème
+- farine
+- sel & poivre
+- Beurre
+- onion
+- échalotte française
+#### Instructions
+1. Attendrir les escalope  de veau  avec un marteau attendrisseur
+2. Faire un mélange de la farine et le sel et poivre
+3. Recouvrir les deux côtés des escalopes du mélange de farine en les déposant dans le mélange
+4. Préchauffer une poêle avec une noix beurre et déposer les escalope
+5. Une fois cuit des deux côtés, placer dans une assiette (garder dans un environnement chaud gardera les escalopes chaudes)
+6. Faire revenir les onions et les échalottes dans la poêle
+7. Verser la crème et le vin, mélanger avec la farine restant dans la poêle et faire réduire. Ajouter sel, poivre et crème au goût
+8. Verser la crème avec les onions sur les escalopes et servir
 ### Taco Seasoning
 #### Ingredients
 - 1 teaspoon ground chili powder 

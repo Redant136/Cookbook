@@ -1,6 +1,8 @@
 # Books
 - [5 Ingredients - Jamie Oliver](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md)
 - [A la di Stasio - Josee di Stasio](A%20la%20di%20Stasio%20-%20Josee%20di%20Stasio/A%20la%20di%20Stasio%20-%20Josee%20di%20Stasio.md)
+- [Bottega - Giovanna Covone](Bottega%20-%20Giovanna%20Covone/Bottega%20-%20Giovanna%20Covone.md)
+- [Complete Vegetarian Cookbook - Charmaine Solomon](Complete%20Vegetarian%20Cookbook%20-%20Charmaine%20Solomon/Complete%20Vegetarian%20Cookbook%20-%20Charmaine%20Solomon.md)
 - [Cookies - Williams Sonoma](Cookies%20-%20Williams%20Sonoma/Cookies%20-%20Williams%20Sonoma.md)
 - [Homemade - Antoine Chevalier](Homemade%20-%20Antoine%20Chevalier/Homemade%20-%20Antoine%20Chevalier.md)
 - [Mom's recipe - Stephanie Couture](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md)
@@ -26,10 +28,16 @@
 # Dinner
 ## Starter
 - [Biscuits Aperitif fromage](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Biscuits%20Aperitif%20fromage)
+- [Bruschette ai fichi](Bottega%20-%20Giovanna%20Covone/Bottega%20-%20Giovanna%20Covone.md#Bruschette%20ai%20fichi)
+- [Cheese puffs](Complete%20Vegetarian%20Cookbook%20-%20Charmaine%20Solomon/Complete%20Vegetarian%20Cookbook%20-%20Charmaine%20Solomon.md#Cheese%20puffs)
+- [Crocchette di baccalà](Bottega%20-%20Giovanna%20Covone/Bottega%20-%20Giovanna%20Covone.md#Crocchette%20di%20baccalà)
 - [Devilled eggs](Homemade%20-%20Antoine%20Chevalier/Homemade%20-%20Antoine%20Chevalier.md#Devilled%20eggs)
+- [Felafel](Complete%20Vegetarian%20Cookbook%20-%20Charmaine%20Solomon/Complete%20Vegetarian%20Cookbook%20-%20Charmaine%20Solomon.md#Felafel)
 - [Grilled figs wrapped in prosciutto](Simply%20Tuscan%20-%20Pino%20Luongo/Simply%20Tuscan%20-%20Pino%20Luongo.md#Grilled%20figs%20wrapped%20in%20prosciutto)
+- [Mushrooms with tomato mousse and fresh coriander](Complete%20Vegetarian%20Cookbook%20-%20Charmaine%20Solomon/Complete%20Vegetarian%20Cookbook%20-%20Charmaine%20Solomon.md#Mushrooms%20with%20tomato%20mousse%20and%20fresh%20coriander)
 - [Polenta Fritta con Acciugata](Savoring%20Tuscany%20-%20Williams%20Sonoma/Savoring%20Tuscany%20-%20Williams%20Sonoma.md#Polenta%20Fritta%20con%20Acciugata)
 - [Ramequins d'oeufs et jambon](A%20la%20di%20Stasio%20-%20Josee%20di%20Stasio/A%20la%20di%20Stasio%20-%20Josee%20di%20Stasio.md#Ramequins%20d'oeufs%20et%20jambon)
+- [Vine leaves with rice, chick peas and currants](Complete%20Vegetarian%20Cookbook%20-%20Charmaine%20Solomon/Complete%20Vegetarian%20Cookbook%20-%20Charmaine%20Solomon.md#Vine%20leaves%20with%20rice,%20chick%20peas%20and%20currants)
 ## Soup
 - [Soupe de poisson au fenouil et à l'orange](Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio/Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio.md#Soupe%20de%20poisson%20au%20fenouil%20et%20à%20l'orange)
 - [Stracciatella](A%20la%20di%20Stasio%20-%20Josee%20di%20Stasio/A%20la%20di%20Stasio%20-%20Josee%20di%20Stasio.md#Stracciatella)
@@ -46,6 +54,7 @@
 - [Pappardelle aux champignons](Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio/Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio.md#Pappardelle%20aux%20champignons)
 - [Pasta au citron](Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio/Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio.md#Pasta%20au%20citron)
 - [Pasta aux tomates cerises et aux herbes](Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio/Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio.md#Pasta%20aux%20tomates%20cerises%20et%20aux%20herbes)
+- [Pates Ricotta Épinards](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Pates%20Ricotta%20Épinards)
 - [Pates à la saucisse et aux épinards](A%20la%20di%20Stasio%20-%20Josee%20di%20Stasio/A%20la%20di%20Stasio%20-%20Josee%20di%20Stasio.md#Pates%20à%20la%20saucisse%20et%20aux%20épinards)
 - [Penne all'arbabbiata](Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio/Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio.md#Penne%20all'arbabbiata)
 - [Pasta pepe e cacio](A%20la%20di%20Stasio%20-%20Josee%20di%20Stasio/A%20la%20di%20Stasio%20-%20Josee%20di%20Stasio.md#Pasta%20pepe%20e%20cacio)
@@ -62,7 +71,9 @@
 - [Basic tomato sauce](Simply%20Tuscan%20-%20Pino%20Luongo/Simply%20Tuscan%20-%20Pino%20Luongo.md#Basic%20tomato%20sauce)
 ## Chicken
 - [Chicken noodle stir-fry](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Chicken%20noodle%20stir-fry)
+- [Coconut chicken curry](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Coconut%20chicken%20curry)
 - [Crispy garlic chicken](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Crispy%20garlic%20chicken)
+- [Curry Chicken](Homemade%20-%20Antoine%20Chevalier/Homemade%20-%20Antoine%20Chevalier.md#Curry%20Chicken)
 - [Flaky pastry pesto chicken](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Flaky%20pastry%20pesto%20chicken)
 - [Herby chicken traybake](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Herby%20chicken%20traybake)
 - [Sticky kickin' wings](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Sticky%20kickin'%20wings)
@@ -76,9 +87,13 @@
 - [Asparagus, eggs & French dressing](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Asparagus,%20eggs%20&%20French%20dressing)
 - [Easy rustic gnocchi](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Easy%20rustic%20gnocchi)
 - [Pasta aux tomates cerises et aux herbes](Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio/Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio.md#Pasta%20aux%20tomates%20cerises%20et%20aux%20herbes)
+- [Potato gnocchi](Complete%20Vegetarian%20Cookbook%20-%20Charmaine%20Solomon/Complete%20Vegetarian%20Cookbook%20-%20Charmaine%20Solomon.md#Potato%20gnocchi)
+- [Spinach and Leek Timbales](Complete%20Vegetarian%20Cookbook%20-%20Charmaine%20Solomon/Complete%20Vegetarian%20Cookbook%20-%20Charmaine%20Solomon.md#Spinach%20and%20Leek%20Timbales)
+- [Three potato omelette](Complete%20Vegetarian%20Cookbook%20-%20Charmaine%20Solomon/Complete%20Vegetarian%20Cookbook%20-%20Charmaine%20Solomon.md#Three%20potato%20omelette)
 ## Beef
 - [Bangin' beef stew](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Bangin'%20beef%20stew)
 - [Epic rib-eye steak](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Epic%20rib-eye%20steak)
+- [Escalope de veaux](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Escalope%20de%20veaux)
 - [Filet mignon and potatoes](Homemade%20-%20Antoine%20Chevalier/Homemade%20-%20Antoine%20Chevalier.md#Filet%20mignon%20and%20potatoes)
 - [Ginger shakin' beef](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Ginger%20shakin'%20beef)
 - [Osso bucco](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Osso%20bucco)
@@ -120,9 +135,11 @@
 ## Baking
 - [Almond pastry puff](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Almond%20pastry%20puff)
 - [Apple Roll](Simply%20Tuscan%20-%20Pino%20Luongo/Simply%20Tuscan%20-%20Pino%20Luongo.md#Apple%20Roll)
+- [Apple tart](Homemade%20-%20Antoine%20Chevalier/Homemade%20-%20Antoine%20Chevalier.md#Apple%20tart)
 - [Tarte feuilleté aux pommes](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Tarte%20feuilleté%20aux%20pommes)
 - [Upside down warm apple tart](Simply%20Tuscan%20-%20Pino%20Luongo/Simply%20Tuscan%20-%20Pino%20Luongo.md#Upside%20down%20warm%20apple%20tart)
 - [Pain aux bananes](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Pain%20aux%20bananes)
+- [Madeleines](Cookies%20-%20Williams%20Sonoma/Cookies%20-%20Williams%20Sonoma.md#Madeleines)
 - [Madeleines (Daniel Boulu)](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Madeleines%20(Daniel%20Boulu))
 - [Monkey bread](Mom's%20recipe%20-%20Stephanie%20Couture/Mom's%20recipe%20-%20Stephanie%20Couture.md#Monkey%20bread)
 - [Chocolate orange shortbread](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Chocolate%20orange%20shortbread)
@@ -145,6 +162,8 @@
 - [Black and white cookies](Cookies%20-%20Williams%20Sonoma/Cookies%20-%20Williams%20Sonoma.md#Black%20and%20white%20cookies)
 - [Buddy's flapjack biscuits](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Buddy's%20flapjack%20biscuits)
 - [Chocolate chip cookies](Cookies%20-%20Williams%20Sonoma/Cookies%20-%20Williams%20Sonoma.md#Chocolate%20chip%20cookies)
+- [Peanut butter cookies](Cookies%20-%20Williams%20Sonoma/Cookies%20-%20Williams%20Sonoma.md#Peanut%20butter%20cookies)
+- [Kraft Peanut butter cookies](Homemade%20-%20Antoine%20Chevalier/Homemade%20-%20Antoine%20Chevalier.md#Kraft%20Peanut%20butter%20cookies)
 - [St Clement's polenta biscuits](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#St%20Clement's%20polenta%20biscuits)
 ## Alcohol
 - [Limoncello](Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio/Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio.md#Limoncello)
@@ -155,6 +174,8 @@
 - [Panettone glacé](Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio/Pasta%20et%20Cetera%20a%20la%20di%20stasio%20-%20Josee%20di%20Stasio.md#Panettone%20glacé)
 - [Panna cotta with strawberries and balsamic vinegar](Simply%20Tuscan%20-%20Pino%20Luongo/Simply%20Tuscan%20-%20Pino%20Luongo.md#Panna%20cotta%20with%20strawberries%20and%20balsamic%20vinegar)
 - [Caramelized baba scented with oranges](Simply%20Tuscan%20-%20Pino%20Luongo/Simply%20Tuscan%20-%20Pino%20Luongo.md#Caramelized%20baba%20scented%20with%20oranges)
+## Pastry
+- [Coffee cream puff](Homemade%20-%20Antoine%20Chevalier/Homemade%20-%20Antoine%20Chevalier.md#Coffee%20cream%20puff)
 # Best Of
 - [Tuna rice](Homemade%20-%20Antoine%20Chevalier/Homemade%20-%20Antoine%20Chevalier.md#Tuna%20rice)
 - [Seared sesame tuna](5%20Ingredients%20-%20Jamie%20Oliver/5%20Ingredients%20-%20Jamie%20Oliver.md#Seared%20sesame%20tuna)

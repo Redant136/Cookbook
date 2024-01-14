@@ -39,6 +39,27 @@ also=h1:Dinner
 8. Add soy sauce to taste and serve
 
 # Dinner
+## Chicken
+### Curry Chicken
+3~4 servings
+#### Ingredients
+- 2 Chicken breast
+- 3 Potatoes
+- 2 Carrots
+- Curry Powder
+- 1 Onion
+- 2 cloves of garlic
+- Laurel leaf (optional) 
+- Rice (optional)
+- Other ingredients or spices to taste
+#### Instructions
+1. Chop the onion and crush the garlic. Place both into a pot with olive oil and let the onions soften on medium heat while chopping the other ingredients
+2. Clean and peel the potatoes and carrots into 1/2 inch to 1 inch cubes. Place aside.
+3. Take the chicken breast and cut into 1/2 inch cubes or slices.
+4. Place the chicken and vegetables into the pot. Mix in the curry powder and fill the pot with water until all the ingredients are covered.
+5. Add the laurel leaf and other ingredients and let simmer for around 30 minutes or until the potatoes and carrots are cooked and soft.
+6. While the curry is cooking, cook 3 to 4 cups of rice.
+7. Serve with curry poured over a serving of rice and enjoy. 
 ## Beef
 ### Filet mignon and potatoes
 2 Servings, ~30 minutes
@@ -92,7 +113,27 @@ sort=Peanut butter cookies
 2. Mix ingredients until blended.
 3. Roll into 24 balls. Place 2 inches apart on baking sheets. Flatten each in criss cross pattern with a fork.
 4. Bake 15 minutes. Cool on baking sheet 5 minutes. Remove to wire rack; cool completely.
+## Baking
+### Apple tart
 
+#### Ingredients
+##### For the dough
+- 2 cup all-purpose flour
+- 10 tablespoons butter, at room temperature 
+- Pinch of salt 
+- 4 tablespoons cold water 
+##### For the tart
+- 2 pounds apples (preferably renette: Golden Delicious can substitute) 
+- 6 tablespoons butter 
+- 1/2 cup sugar 
+#### Instructions
+1. Mix all the dough ingredients together to obtain a soft dough. Do not overwork the dough.
+2. Split the dough in 2, one with 2/3 of the dough, and the other with the rest. Wrap the dough in plastic and refrigerate it for 30 minutes.
+3. Preheat the oven to 325°F. Peel and core the apples, then cut each one into 8 wedges. 
+4. Place the bigger piece of dough in a pie tray and place half the butter, 5 tablespoons of sugar and the apples.
+5. Cook the pie on the **STOVE** until the sugar caramelizes, around 15 minutes.
+6. Remove the pie from the over and put in the rest of the butter and sugar. Close the pie with the rest of the dough and make vent holes with a fork.
+7. Cook the pie for around 30\~45 minutes or until the top of the pie is golden brown and serve.
 ## Pastry
 ### Coffee cream puff
 

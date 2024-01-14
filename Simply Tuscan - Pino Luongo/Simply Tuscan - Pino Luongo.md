@@ -363,12 +363,13 @@ sort=apple tart
 - 2 tablespoons cold water 
 ##### For the tart
 - 2 pounds apples (preferably renette: Golden Delicious can substitute) 
-- 12 tablespoons butter cup sugar 
+- 12 tablespoons butter 
+- 1/2 cup sugar 
 ##### To serve
 - Vanilla ice cream (optional) 
 - 12 tablespoons Calvados (optional)
 #### Instructions
-1. Mix all the dough ingredients together to obtain a soft dough. Do not overwork the dough. You may mix the dough in the food processor--just pulse until the ingredients are mixed. 
+1. Mix all the dough ingredients together to obtain a soft dough. Do not overwork the dough. You may mix the dough in the food processor, just pulse until the ingredients are mixed. 
 2. Wrap the dough in plastic and refrigerate it for 30 minutes.
 3. Preheat the oven to 325°F. Peel and core the apples, then cut each one into 8 wedges. 
 4. Using half the butter, grease the bottom of a 10-inch by 2-inch no-stick cake pan. Sprinkle 5 tablespoons of the sugar evenly over the butter. Arrange the apple wedges on the sugared butter, evenly and in one layer. 
@@ -376,7 +377,7 @@ sort=apple tart
 6. Remove the pan from the heat, sprinkle with the remaining sugar and dot with the remaining butter. 
 7. Roll out the dough to a quarter-inch-thick circle, and cover the apple mixture with it. 
 8. Poke air holes in the top with a fork. 
-9. Place the entire pan in the preheated oven and bake for 30 min-utes, or until the crust is golden brown.
+9. Place the entire pan in the preheated oven and bake for 30 minutes, or until the crust is golden brown.
 10. Cover the pan with a platter and flip the tart over onto it. Serve warm, and -if desired- top each serving with a scoop of vanilla ice cream and pour 2 tablespoons of Calvados on each scoop.
 ### Tuscan cream puffs
 18 puffs
@@ -403,10 +404,10 @@ p. 94
 6 Servings
 p. 218
 #### Ingredients
-- 2 1/4 sups flour
+- 2 1/4 cups flour
 - 1 egg
 - 12 tablespoons butter, softened to room temperature
-- 1/4 cup hot mild 
+- 1/4 cup hot milk 
 - Pinch of salt
 - 2 pounds tart apples, such as Italian Renette or Granny Smith
 - 5/8 cups sugar

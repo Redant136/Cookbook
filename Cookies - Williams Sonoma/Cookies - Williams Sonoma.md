@@ -68,7 +68,7 @@ p. 10
 - 1 cup walnuts toasted, then coarsely chopped (optional)
 #### Instructions
 1. Preheat the oven to 350F. Have ready 2 ungreased baking sheets. Sift the flour, baking powder, baking soda and salt onto a sheet of waxed paper; set aside.
-2. Ub a large bowl, using an electric mixer on high speed, cream the butter until fluffy and pale yellow. Add the granulated and brown sugars and continue beating until the mixture is no longer gritty when rubbed between your fingers and thumb. Add the egg and vanilla and beat on low speed until blended, occasionally stopping the mixer and scraping down the sides of the bowl with  a rubber spatula as needed.
+2. In a large bowl, using an electric mixer on high speed, cream the butter until fluffy and pale yellow. Add the granulated and brown sugars and continue beating until the mixture is no longer gritty when rubbed between your fingers and thumb. Add the egg and vanilla and beat on low speed until blended, occasionally stopping the mixer and scraping down the sides of the bowl with  a rubber spatula as needed.
 3. Add the flour mixture to the butter mixture and mix on low speed or stir with a wooden spoon just until blended. Add the chocolate chips and the walnuts mixing or stirring just until blended. 
 4. With dampened hands, shape the dough into 1 inch balls or drop by rounded tablespoons onto the baking sheets, spacing the cookies about 2 inches apart.
 5. Bake the cookies until golden brown around the edges, about 12 minutes. Let the cookies cool briefly on the pans on wire racks before transferring them to the racks to cool completely.
