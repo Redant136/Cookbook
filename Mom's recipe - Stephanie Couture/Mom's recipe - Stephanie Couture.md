@@ -123,6 +123,21 @@ also=h1:Desert
 10. Ajouter les pates et bien mélanger
 11. Si vous aimez les noix de pin, vous pouvez en mettre quelques unes au service sur le dessus.
 
+### Macaroni au fromage
+#### Ingredients
+- 500 ml (2 tasses) crème champêtre 15%  
+- 1 boîte de 398 ml (14 oz) de tomates en dés ou entières hachées  
+- 750 ml (3 tasses) de cheddar extra-fort râpé  
+- 375 ml (1 1/2 tasse) de parmesan ou pecorino romano râpés  
+- 1 gros bouquet de basilic haché  
+- 500 g (1 lb) de tortiglioni ou autres pâtes courtes  
+- Sel et poivre du moulin
+#### Instructions
+1. Préchauffer le four à 200 C (400 F). Dans un grand bol, mélanger la crème, les tomates, le cheddar, 250 ml (1 tasse) de parmesan et le basilic. Saler et poivrer.  
+  2. Dans une grande casserole, cuire les pâtes dans de l'eau bouillante salée jusqu'à ce qu'elles soient presque al dente. Bien égoutter.  
+  3. Ajouter les pâtes aux ingrédients dans le bol et bien mélanger.  
+  4. Verser sur les pâtes dans 6 ramequins de 375 ml (1 1/2 tasse) ou un plat à gratin.  
+  5. Répartir le reste du parmesan sur le dessus. Cuire au four de 12 à 15 minutes pour les ramequins et de 25 à 30 minutes pour le plat à gratin.
 ## Chicken
 ### Coconut chicken curry
 30 minutes
@@ -195,6 +210,30 @@ also=h1:Desert
 6. Faire revenir les onions et les échalottes dans la poêle
 7. Verser la crème et le vin, mélanger avec la farine restant dans la poêle et faire réduire. Ajouter sel, poivre et crème au goût
 8. Verser la crème avec les onions sur les escalopes et servir
+### Pâté Chinois
+4 portions
+#### Ingredients
+- 4 patates moyennes
+- 1 petit onion
+- 500g de viande haché
+- Bovril ou bouillon en cube
+- 1 cannette de maïs en crème
+- Beurre
+- Lait
+- Ketchup
+#### Instructions
+1. Peler les patates et les couper en plus petits cubes pour accéléré la cuisson.
+2. Placer dans un chaudron, couvrir d'eau et bouillir jusqu'à ce que les patates soit cuites.
+3. Pendant que les patates cuisent, haché l'onion et le faire revenir dans une poêle avec un filet d'huile d'olive.
+4. Préchauffer le four à 350F.
+5. Mélanger la viande haché avec l'onion, ajouter un peu de Bovril ou la moitié d'un cube de bouillon et ajouter un peu de ketchup.
+6. Mélanger jusqu'à ce que la viande soit cuite et placer dans un grand plat et bien étaler.
+7. Verser le maïs sur la viande et bien étaler.
+8. Une fois que les patates sont cuites, égoutter l'eau.
+9. Ajouter un morceau de beurre et piler les patates, ajouter du lait au goût.
+10. Étaler les patates sur la maïs et étaler une fine couche de ketchup sur les patates au gout. 
+12. Mettre le plat au four pendant 20 minutes.
+14. Pour empêcher les patates de sécher durant la cuisson, mettre du papier d'aluminium au dessus du plat. 
 ### Taco Seasoning
 #### Ingredients
 - 1 teaspoon ground chili powder 
